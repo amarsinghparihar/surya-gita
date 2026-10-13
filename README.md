@@ -1,5 +1,4 @@
 # 🌞 SURYA GITA 🚩
-
 <h1 align="center" style="color:red; font-size:60px;">
 <h2 style="color:orange; font-size:28px;">Suryamahayogi - Noon Sun ko khuli aankh se dekhne wale ekmatra manav</h2>
 
