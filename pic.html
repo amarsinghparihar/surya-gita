@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Surya Tratak Photos</title>
+<style>body{text-align:center;background:#fff8e1;padding:10px}img{width:95%;max-width:400px;margin:12px auto;display:block;border-radius:12px}</style>
+</head><body>
+<h2>🌟 Surya Tratak Photos</h2>
+<div id="g"></div>
+<br><a href="index.html"><button>🏠 Home</button></a>
+<script>
+fetch('https://api.github.com/repos/amarsinghparihar/surya-gita/contents/')
+.then(r=>r.json()).then(a=>{
+a.forEach(f=>{
+if(f.name.match(/\.jpe?g$/i)){
+let i=document.createElement('img');i.src=f.name;document.getElementById('g').appendChild(i);
+}
+})
+})
+</script>
+</body></html>
