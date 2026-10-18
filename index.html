@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SURYA GITA</title>
+<style>
+body{font-family:Arial;background:#fff8e1;margin:0;padding:10px}
+h1{text-align:center;color:#e65100}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
+.grid img{width:100%;height:180px;object-fit:cover;border-radius:8px}
+.grid div{text-align:center;font-size:11px}
+</style>
+</head>
+<body>
+<h1>🌞 SURYA GITA 🚩</h1>
+<div class="grid" id="gallery"></div>
+<script>
+const allImages=[
+"amar-cv-1.jpg","amar-cv-2.jpg","amar-cv-3.jpg","amar-cv-4.jpg","amar-cv-5.jpg","amar-cv-king.jpg",
+"amar-img-1.jpg","amar-img-2.jpg","amar-img-3.jpg","amar-img-4.jpg","amar-img-5.jpg","amar-img-6.jpg","amar-img-7.jpg","amar-img-8.jpg","amar-img-9.jpg","amar-img-10.jpg","amar-img-11.jpg","amar-img-12.jpg","amar-img-13.jpg","amar-img-14.jpg","amar-img-15.jpg","amar-img-16.jpg","amar-img-17.jpg","amar-img-18.jpg","amar-img-19.jpg","amar-img-20.jpg","amar-img-21.jpg",
+"amar-phd-tratak.jpg",
+"amar-photo-1.jpg","amar-photo-2.jpg","amar-photo-3.jpg","amar-photo-4.jpg","amar-photo-5.jpg","amar-photo-6.jpg","amar-photo-7.jpg","amar-photo-8.jpg","amar-photo-9.jpg",
+"amar-pic-1.jpg","amar-pic-2.jpg","amar-pic-3.jpg","amar-pic-4.jpg","amar-pic-5.jpg","amar-pic-6.jpg","amar-pic-7.jpg","amar-pic-8.jpg","amar-pic-9.jpg","amar-pic-10.jpg","amar-pic-11.jpg","amar-pic-12.jpg","amar-pic-13.jpg","amar-pic-14.jpg","amar-pic-15.jpg","amar-pic-16.jpg","amar-pic-17.jpg","amar-pic-18.jpg","amar-pic-19.jpg","amar-pic-20.jpg","amar-pic-21.jpg","amar-pic-22.jpg","amar-pic-23.jpg","amar-pic-24.jpg","amar-pic-25.jpg","amar-pic-26.jpg","amar-pic-27.jpg","amar-pic-28.jpg","amar-pic-29.jpg","amar-pic-30.jpg","amar-pic-31.jpg",
+"amar-primery-tratak.jpg"
+];
+const g=document.getElementById('gallery');
+allImages.forEach(s=>{
+const d=document.createElement('div');
+const i=document.createElement('img');
+i.src=s;i.onerror=function(){d.style.display='none'};
+d.appendChild(i);g.appendChild(d);
+});
+</script>
+</body>
+</html>
