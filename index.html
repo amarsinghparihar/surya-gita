@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SURYA GITA</title></head>
+<body style="margin:0;background:#fffbe6;text-align:center;font-family:sans-serif">
+<div style="position:sticky;top:0;background:#fffbe6;padding:10px;border-bottom:2px solid #f60"><b>☀️ SURYA GITA 🚩</b><br>Total: <span id="t">0</span></div>
+<h2 style="color:orange">Suryamahayogi</h2>
+<div id="g"></div>
+<script>
+var f=["amar-pic-5.jpg","amar-pic-6.jpg","amar-pic-7.jpg","amar-pic-8.jpg","amar-pic-9.jpg","amar-primary-tratak.jpg"];
+var g=document.getElementById('g');var n=0;
+for(var i=0;i<f.length;i++){var im=new Image();im.src=f[i];im.style="width:95%;margin:10px auto;display:block;border-radius:10px";im.onload=function(){n++;document.getElementById('t').innerText=n;};g.appendChild(im);}
+</script>
+</body>
+</html>
