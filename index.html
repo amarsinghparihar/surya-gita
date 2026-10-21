@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SURYA GITA</title></head>
+<body style="margin:0;background:#fffbe6;text-align:center;font-family:sans-serif">
+<div style="position:sticky;top:0;background:#fffbe6;padding:12px;border-bottom:2px solid #f60"><b>☀️ SURYA GITA 🚩</b><br>Total: <span id="t">0</span></div>
+<h2 style="color:orange">Suryamahayogi</h2>
+<div id="g"></div>
+<script>
+fetch('https://api.github.com/repos/amarsinghparihar/surya-gita/contents/').then(r=>r.json()).then(d=>{
+ var g=document.getElementById('g');var n=0;
+ d.forEach(f=>{
+  if(f.name.match(/\.(jpg|jpeg|png|webp)$/i)){
+   var im=new Image();
+   im.src=f.name;
+   im.style="width:95%;margin:10px auto;display:block;border-radius:10px";
+   im.onload=function(){n++;document.getElementById('t').innerText=n;};
+   g.appendChild(im);
+  }
+ });
+});
+</script>
+</body>
+</html>
