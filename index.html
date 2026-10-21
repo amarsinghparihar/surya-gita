@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SURYA GITA</title>
+<style>body{margin:0;background:#fffbe6}img{width:100%;display:block;clip-path:inset(13% 0);margin:-5% 0}</style>
+</head>
+<body
+<div id="g"></div>
+<script>
+fetch('https://api.github.com/repos/amarsinghparihar/surya-gita/contents?per_page=1000').then(r=>r.json()).then(d=>{
+let a=d.filter(f=>/\.(jpg|png|jpeg|webp)$/i.test(f.name)).sort((a,b)=>a.name.localeCompare(b.name));
+let g=document.getElementById('g');
+a.forEach(f=>{
+let i=document.createElement('img'); i.loading='lazy'; i.src=encodeURI(f.name);
+g.appendChild(i);
+});
+});
+</script>
+</body>
+</html>
