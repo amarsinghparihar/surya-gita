@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SURYA GITA</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:#fffbe6 !important}
+#top{padding:12px;background:#fffbe6;font-family:sans-serif}
+.card{margin-bottom:10px;background:#fffbe6;border-bottom:2px solid #000}
+.card img{width:100%;height:auto;display:block;background:#fffbe6}
+.nm{background:yellow !important;color:#000 !important;padding:10px;font-family:sans-serif;font-size:16px;font-weight:bold;word-break:break-all;text-align:center}
+</style>
+</head>
+<body>
+<div id="top"><b id="cnt">Loading 122...</b></div>
+<div id="g"></div>
+<script>
+async function start(){
+let r=await fetch('https://api.github.com/repos/amarsinghparihar/surya-gita/contents?'+Date.now());
+let j=await r.json();
+j=j.filter(f=>{let n=f.name.toLowerCase();return n.endsWith('.jpg')||n.endsWith('.jpeg')});
+j.sort((a,b)=>a.name.localeCompare(b.name,'en',{numeric:true}));
+let c=document.getElementById('g');
+j.forEach(f=>{
+let d=document.createElement('div');d.className='card';
+let im=document.createElement('img');im.src='./'+f.name+'?v='+Date.now();im.loading='lazy';
+let nm=document.createElement('div');nm.className='nm';nm.textContent=f.name;
+d.appendChild(im);d.appendChild(nm);c.appendChild(d);
+});
+document.getElementById('cnt').innerText=j.length+' photos';
+}
+start()
+</script>
+</body>
+</html>
