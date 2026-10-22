@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SURYA GITA</title>
+<style>
+html,body{margin:0;padding:0;background:#fffbe6}
+#top{padding:10px;background:#fffbe6;font-family:sans-serif}
+#g{background:#fffbe6}
+img{width:100%;height:auto;display:block;margin:0;padding:0;background:#fffbe6}
+</style>
+</head>
+<body>
+<div id="top"><b id="cnt">Loading 122 photos...</b></div>
+<div id="g"></div>
+<script>
+async function start(){
+let r=await fetch('https://api.github.com/repos/amarsinghparihar/surya-gita/contents?'+Date.now());
+let j=await r.json();
+let c=document.getElementById('g');
+let n=0;
+j.forEach(f=>{
+let name=f.name.toLowerCase();
+if(name.endsWith('.jpg')||name.endsWith('.jpeg')){
+let im=document.createElement('img');
+im.src='./'+f.name;
+im.loading='lazy';
+c.appendChild(im);
+n++
+}
+});
+document.getElementById('cnt').innerText=n+' photos';
+}
+start()
+</script>
+</body>
+</html>
