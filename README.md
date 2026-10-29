@@ -255,8 +255,7 @@ Neeche diye gaye prasiddh pankti-ansh is parampara ki bhakti-bhavna ki yaad dila
 >
 > "संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"
 
-In panktiyon ko parampara mein Shiva dwara Ram-katha ke manan aur Uma ko
-sunaye jane ke sandarbh mein padha jata hai. 
+Ramcharitmanas ke lekhak Tulsidasji 1 nahi 3 bar granth ke prarambh me hi likh rahe kai affidavit ki tarah ki iski mul prati original copy Bhagwan Shiv dwara man me rahit hai, mai to sirf ise lipibaddha kar rahaa huun.
 
 Uparokt vishleshan ka nishkarsh: Bhagwan Shiv rachit Ramcharitmans & Bhagwan Krishna kathit Gita trinetra se yukt hone ke karan pramanik shashtra hue jinka anupalan hame dharm, karm ke liye karna chahiye. 
 
