@@ -107,9 +107,9 @@
 
 WhatsApp / सम्पर्क: +91 81269 14149
 
-ई-mail: suryamahayogi@gmail.com
+ई-mail: suryamahayogiji@gmail.com
 
-YouTube: @suryamahayogi9285
+YouTube: @suryamahayogiji
 
 Blog: suryamahayogi.blogspot.com
 
