@@ -223,27 +223,26 @@ kisi ko Surya-darshan ka prayog karne ka nirdesh.
 
 ## 04. GURU-VISHLESHAN --- KRISHNA, SHIVA AUR SADHANA
 
-Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan adhyatmik gyan, yog aur anugrah se joda jata hai. Gita, puran, sant-vani aur Ramcharitmanas jaise granth alag-alag drishtikon se bhakti, gyan,
-karm aur guru-kripa par prakash dalte hain.
+Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan adhyatmik gyan, yog aur anugrah se joda jata hai. Bhagwan Krishna (Krishnam vande jagatgurum) & Bhagwan Shiv (tumh tribhuvan guru ved bakhana)Gita, puran, sant-vani aur Ramcharitmanas jaise granth alag-alag drishtikon se bhakti, gyan, karm aur guru-kripa par prakash dalte hain.
 
 Suryamahayogiji apni adhyatmik samajh mein Krishna, Surya, Hanumanji aur
 apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva
 dete hain. Ve apne jeevan ke anubhavon ko guru-kripa aur sadhana ke sandarbh mein vyakhya karte hain. Is vyakhya ko unka shraddha-purvak
 vyaktigat drishtikon samjha jaye.
 
-## 05. DEV-GURU BRIHASPATI --- GYAN, VIVEK AUR SADBUDDHI
+## 05. DEV-GURU BRIHASPATI --- GYAN, VIVEK AUR SADBUDDHI WITH 2 EYES
 
 Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh hai ki gyan ka uddeshya keval jankari badhana nahin, balki vyakti ke
 achar, vichar ko bhi behtar banana hai.
 Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye sab adhyatmik pragati ke mahatvapurn pehlu hain.
 
-## 06. DAITYA-GURU SHUKRACHARYA --- VICHAR, PRASHN AUR SANTULAN
+## 06. DAITYA-GURU SHUKRACHARYA --- YOG, BHOG ME SANTULAN, MRIT SANJIVANI WITH 1 EYE
 
 Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai:  gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah mahatvapurn hai.
 Adhyatma ko andhvishwas ya vivad tak simit karne ke bajay, shraddha, vivek, prashn aur naitik zimmedari ka santulan banana chahiye.
 Surya Gita isi tarah ke khule aur maryadit samvad ka nimantran hai.
 
-## 07. RAMCHARITMANAS --- SHIVA, UMA AUR PAVITRA KATHA
+## 07. RAMCHARITMANAS --- SHIVA, UMA AUR PAVITRA KATHA & TRINETRA 
 
 Ramcharitmanas mein Goswami Tulsidasji ne Shiva aur Uma ke madhyam se
 Ram-katha ke pavitra sanchar ko sundar bhasha mein vyakt kiya hai.
