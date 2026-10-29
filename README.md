@@ -214,7 +214,7 @@ aur samvad bhi kiya ja sakta hai.
 > "prarthana, mantra, dhyan, ya surakshit
 > paramparik vidhi" apna sakte hain. isiiliye
 > Band aankhon se Surya dekho tab tak jab tak ki Ramkrishna Paramhans jaise Guru na mile. Mantra lo, Third Eye kholo.</h2>
-> 
+ 
 
 Suryamahayogiji apne anubhavon ko "sahaj bhav" aur "satwik trinetra"
 jaise adhyatmik shabdon se vyakt karte hain. In shabdon ko unke
@@ -236,13 +236,13 @@ Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur m
 achar, vichar ko bhi behtar banana hai.
 Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye sab adhyatmik pragati ke mahatvapurn pehlu hain.
 
-## 06. DAITYA-GURU SHUKRACHARYA --- YOG, BHOG ME SANTULAN, MRIT SANJIVANI WITH 1 EYE
+## 06. DAITYA-GURU SHUKRACHARYA --- YOG - BHOG ME SANTULAN, MRIT SANJIVANI WITH 1 EYE
 
 Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai:  gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah mahatvapurn hai.
 Adhyatma ko andhvishwas ya vivad tak simit karne ke bajay, shraddha, vivek, prashn aur naitik zimmedari ka santulan banana chahiye.
 Surya Gita isi tarah ke khule aur maryadit samvad ka nimantran hai.
 
-## 07. RAMCHARITMANAS --- SHIVA, UMA AUR PAVITRA KATHA & TRINETRA 
+## 07. RAMCHARITMANAS --- SHIVA, UMA SAMVAD KATHA WITH TRINETRA 
 
 Ramcharitmanas mein Goswami Tulsidasji ne Shiva aur Uma ke madhyam se
 Ram-katha ke pavitra sanchar ko sundar bhasha mein vyakt kiya hai.
