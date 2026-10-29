@@ -279,7 +279,6 @@ na pahunchana, dharmik jeevan ke mahatvapurn aadhar hain.
 NGOs, trusts, foundations, mandir-prabandhan samitiyon, jewellers
 associations, clubs aur anya samajik-sanskritik sansthaon se vinamra
 nivedan hai ki ve is parichay aur uplabdh poster-samagri ko apne vivek ke anusar dekhein. Yadi samagri unke uddeshyon aur niyamon ke anukul lage, to ve ise padhne, saajha karne ya is par samvad karne par vichar kar sakte hain.
-
 Yah nivedan kisi prakar ka dabav, sahyog ya arthik sahayata ki maang nahin hai. Har sanstha apni niti, samay, sansadhan aur mulyankan ke anusar swatantra nirnay le.
 
 ## 10. JEEVAN-PARICHAY AUR SAMAGRI
@@ -315,7 +314,6 @@ capitalization ko jaisa hai vaisa hi rakhein.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICE%20TO%20ALL-B00020?style=for-the-badge&labelColor=FFFFFF)
 
 **Shraddha ke saath vivek. Gyan ke saath vinamrata. Aur sadhana ke saath
