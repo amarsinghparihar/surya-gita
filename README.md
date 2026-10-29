@@ -313,7 +313,7 @@ Files ko repository mein upload karte samay inke exact naam aur
 capitalization ko jaisa hai vaisa hi rakhein.
 
 ------------------------------------------------------------------------
-
+::: {align="center"}
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICE%20TO%20ALL-B00020?style=for-the-badge&labelColor=FFFFFF)
 
 **Shraddha ke saath vivek. Gyan ke saath vinamrata. Aur sadhana ke saath
