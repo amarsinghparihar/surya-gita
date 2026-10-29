@@ -215,7 +215,6 @@ aur samvad bhi kiya ja sakta hai.
 > paramparik vidhi" apna sakte hain. isiiliye
 > Band aankhon se Surya dekho tab tak jab tak ki Ramkrishna Paramhans jaise Guru na mile. Mantra lo, Third Eye kholo.</h2>
  
-
 Suryamahayogiji apne anubhavon ko "sahaj bhav" aur "satwik trinetra"
 jaise adhyatmik shabdon se vyakt karte hain. In shabdon ko unke
 vyaktigat adhyatmik anubhav ki bhasha ke roop mein samjha jaye, na ki
@@ -230,7 +229,7 @@ apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva
 dete hain. Ve apne jeevan ke anubhavon ko guru-kripa aur sadhana ke sandarbh mein vyakhya karte hain. Is vyakhya ko unka shraddha-purvak
 vyaktigat drishtikon samjha jaye.
 
-## 05. DEV-GURU BRIHASPATI --- GYAN, VIVEK AUR SADBUDDHI WITH 2 EYES
+## 05. DEV-GURU BRIHASPATI --- GYAN, VIVEK, SADBUDDHI WITH 2 EYES
 
 Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh hai ki gyan ka uddeshya keval jankari badhana nahin, balki vyakti ke
 achar, vichar ko bhi behtar banana hai.
