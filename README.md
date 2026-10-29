@@ -242,7 +242,7 @@ Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. I
 Adhyatma ko andhvishwas ya vivad tak simit karne ke bajay, shraddha, vivek, prashn aur naitik zimmedari ka santulan banana chahiye.
 Surya Gita isi tarah ke khule aur maryadit samvad ka nimantran hai.
 
-## 07. RAMCHARITMANAS --- SHIVA, UMA SAMVAD KATHA WITH TRINETRA 
+## 07. RAMCHARITMANAS --- SHIVA - UMA SAMVAD KATHA WITH TRINETRA 
 
 Ramcharitmanas mein Goswami Tulsidasji ne Shiva aur Uma ke madhyam se
 Ram-katha ke pavitra sanchar ko sundar bhasha mein vyakt kiya hai.
@@ -257,8 +257,9 @@ Neeche diye gaye prasiddh pankti-ansh is parampara ki bhakti-bhavna ki yaad dila
 > "संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"
 
 In panktiyon ko parampara mein Shiva dwara Ram-katha ke manan aur Uma ko
-sunaye jane ke sandarbh mein padha jata hai. Granth ke path aur
-sanskaran ke anusar vartani ya viram-chihn mein antar mil sakta hai.
+sunaye jane ke sandarbh mein padha jata hai. 
+
+Uparokt vishleshan ka nishkarsh: Bhagwan Shiv rachit Ramcharitmans & Bhagwan Krishna kathit Gita trinetra se yukt hone ke karan pramanik shashtra hue jinka anupalan hame dharm, karm ke liye karna chahiye. 
 
 ## 08. NISHKARSH --- PAROPKAR HI JEEVAN KA AADHAR
 
