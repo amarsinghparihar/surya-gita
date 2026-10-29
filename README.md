@@ -231,8 +231,7 @@ apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva
 dete hain. Ve apne jeevan ke anubhavon ko guru-kripa aur sadhana ke sandarbh mein vyakhya karte hain. Is vyakhya ko unka shraddha-purvak
 vyaktigat drishtikon samjha jaye.
 
-## 05. DEV-GURU BRIHASPATI --- GYAN, 
-VIVEK AUR SADBUDDHI
+## 05. DEV-GURU BRIHASPATI --- GYAN, VIVEK AUR SADBUDDHI
 
 Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh
 hai ki gyan ka uddeshya keval jankari badhana nahin, balki vyakti ke
