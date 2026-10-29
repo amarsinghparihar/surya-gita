@@ -121,6 +121,26 @@ GitHub Pages: https://amarsinghparihar.github.io/surya-gita/
 
 ॐ तत्सत्।
 ------------------------------------------------------------------------
+::: {align="center"}
+![Surya Gita --- Red
+Banner](https://img.shields.io/badge/SURYA%20GITA-GITA%20TATTVA%20GYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
+![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-SHRADDHA%20AUR%20VIVEK-B00020?style=for-the-badge)
+![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
+
+# 🔴 SURYAMAHAYOGIJI --- SURYA GITA 🔴
+
+### Gita Tattva Gyan • Guru Parampara • Adhyatma • Paropkar
+
+**Hinglish Introduction \| हिंदी परिचय**
+:::
+
+> **READING NOTE:** This document presents a spiritual account, personal
+> experiences, scriptural interpretations, and an invitation to
+> thoughtful dialogue. Interpretive or extraordinary claims are
+> presented as the author's understanding, not as independently
+> established scientific facts.
+
+------------------------------------------------------------------------
 
 # 🔴 PART I --- HINGLISH VERSION 🔴
 
@@ -171,12 +191,10 @@ samajhne ke alag drishtikon ho sakte hain.
 Bharatiya kathao mein Jatayu aur Sampati jaise pakshi-patron ka ullekh
 aata hai. Suryamahayogiji in kathao ko Surya, drishti, sahas, seema aur
 sadhana ke prateekatmak arth mein dekhte hain. In prasangon ko yahan
-dharmik-kathatmak aur adhyatmik chintan ke roop mein rakha gaya hai, na
-ki vaigyanik praman ke roop mein.
+dharmik-kathatmak aur adhyatmik chintan ke roop mein rakha gaya hai, na ki vaigyanik praman ke roop mein.
 
 Adhyatma mein kisi bhi asadharan anubhav ko samajhte samay vinamrata,
-vivek, praman aur suraksha ka dhyan rakhna avashyak hai. Kisi vyakti ke
-anubhav ka samman kiya ja sakta hai, saath hi uski vyakhya par prashn
+vivek, praman aur suraksha ka dhyan rakhna avashyak hai. Kisi vyakti ke anubhav ka samman kiya ja sakta hai, saath hi uski vyakhya par prashn
 aur samvad bhi kiya ja sakta hai.
 
 ## 03. CHETAVANI --- SURYA KO SEEDHE NA DEKHEIN
@@ -184,7 +202,7 @@ aur samvad bhi kiya ja sakta hai.
 > 🔴 **SURAKSHA SABSE PEHLE** 🔴
 >
 > Surya ko nangi aankhon se seedhe dekhna, chahe thode samay ke liye hi
-> kyon na ho, retina ko sthayi nuksan pahucha sakta hai. Surya ke
+> kyon na ho, retina ko sthayi nuksan pahuncha sakta hai. Surya ke
 > pratibimb ko kisi doosre vyakti ki aankh mein dekhna bhi surakshit
 > adhyatmik vidhi nahin hai. Is website ka uddeshya kisi ko aisa karne
 > ke liye kehna nahin hai.
@@ -201,45 +219,35 @@ kisi ko Surya-darshan ka prayog karne ka nirdesh.
 
 ## 04. GURU-VISHLESHAN --- KRISHNA, SHIVA AUR SADHANA
 
-Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan
-adhyatmik gyan, yog aur anugrah se joda jata hai. Gita, puran, sant-vani
-aur Ramcharitmanas jaise granth alag-alag drishtikon se bhakti, gyan,
+Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan adhyatmik gyan, yog aur anugrah se joda jata hai. Gita, puran, sant-vani aur Ramcharitmanas jaise granth alag-alag drishtikon se bhakti, gyan,
 karm aur guru-kripa par prakash dalte hain.
 
 Suryamahayogiji apni adhyatmik samajh mein Krishna, Surya, Hanumanji aur
 apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva
-dete hain. Ve apne jeevan ke anubhavon ko guru-kripa aur sadhana ke
-sandarbh mein vyakhya karte hain. Is vyakhya ko unka shraddha-purvak
+dete hain. Ve apne jeevan ke anubhavon ko guru-kripa aur sadhana ke sandarbh mein vyakhya karte hain. Is vyakhya ko unka shraddha-purvak
 vyaktigat drishtikon samjha jaye.
 
-## 05. DEV-GURU BRIHASPATI --- GYAN AUR SADBUDDHI
+## 05. DEV-GURU BRIHASPATI --- GYAN, 
+VIVEK AUR SADBUDDHI
 
-Bharatiya dharmik parampara mein Brihaspati ko dev-guru aur gyan, niti,
-vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh
+Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh
 hai ki gyan ka uddeshya keval jankari badhana nahin, balki vyakti ke
-acharan ko bhi behtar banana hai.
+achar, vichar ko bhi behtar banana hai.
 
-Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan
-karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye
-sab adhyatmik pragati ke mahatvapurn pehlu hain.
+Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye sab adhyatmik pragati ke mahatvapurn pehlu hain.
 
 ## 06. DAITYA-GURU SHUKRACHARYA --- VICHAR, PRASHN AUR SANTULAN
 
-Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya
-jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai:
-gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah
-mahatvapurn hai.
+Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai:  gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah mahatvapurn hai.
 
-Adhyatma ko andhvishwas ya vivad tak simit karne ke bajay, shraddha ke
-saath vivek, prashn aur naitik zimmedari ka santulan banana chahiye.
+Adhyatma ko andhvishwas ya vivad tak simit karne ke bajay, shraddha, vivek, prashn aur naitik zimmedari ka santulan banana chahiye.
 Surya Gita isi tarah ke khule aur maryadit samvad ka nimantran hai.
 
 ## 07. RAMCHARITMANAS --- SHIVA, UMA AUR PAVITRA KATHA
 
 Ramcharitmanas mein Goswami Tulsidasji ne Shiva aur Uma ke madhyam se
 Ram-katha ke pavitra sanchar ko sundar bhasha mein vyakt kiya hai.
-Neeche diye gaye prasiddh pankti-ansh is parampara ki bhakti-bhavna ko
-yaad dilate hain:
+Neeche diye gaye prasiddh pankti-ansh is parampara ki bhakti-bhavna ki yaad dilate hain:
 
 > 🔴 **RAMCHARITMANAS --- SHRADDHA AUR KATHA-PARAMPARA** 🔴
 >
@@ -247,7 +255,7 @@ yaad dilate hain:
 >
 > "रामचरितमानस मुनि भवन, बिरचेउ संभु सुहावन पावन॥"
 >
-> "संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमा सुनावा॥"
+> "संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"
 
 In panktiyon ko parampara mein Shiva dwara Ram-katha ke manan aur Uma ko
 sunaye jane ke sandarbh mein padha jata hai. Granth ke path aur
@@ -255,20 +263,13 @@ sanskaran ke anusar vartani ya viram-chihn mein antar mil sakta hai.
 
 ## 08. NISHKARSH --- PAROPKAR HI JEEVAN KA AADHAR
 
-Adhyatmik gyan ka ek mahatvapurn lakshya vyakti ke jeevan mein daya,
-seva, satya, vinamrata aur paropkar ko badhana hai. Suryamahayogiji ka
-sandesh bhi pathakon ko apne jeevan mein lok-kalyan aur doosron ke prati
-hit-bhav par vichar karne ke liye amantrit karta hai.
+Adhyatmik gyan ka ek mahatvapurn lakshya vyakti ke jeevan mein daya, seva, satya, vinamrata aur paropkar ko badhana hai. Suryamahayogiji ka
+sandesh bhi pathakon ko apne jeevan mein lok-kalyan aur doosron ke prati hit-bhav par vichar karne ke liye amantrit karta hai.
 
 > 🔴 **PARHIT SARIS DHARAM NAHI BHAI** 🔴
 >
 > **परहित सरिस धरम नहि भाई।**\
-> **पर पीड़ा सम नहि अधमाई॥**
->
-> *Parhit saris dharam nahi bhai; par peeda sam nahi adhamai.*
-
-Aur:
-
+> 
 > **परहित बस जिन्ह के मन माहीं।\
 > तिन्ह कहुँ जग दुर्लभ कछु नाहीं॥**
 
@@ -279,25 +280,18 @@ na pahunchana, dharmik jeevan ke mahatvapurn aadhar hain.
 
 NGOs, trusts, foundations, mandir-prabandhan samitiyon, jewellers
 associations, clubs aur anya samajik-sanskritik sansthaon se vinamra
-nivedan hai ki ve is parichay aur uplabdh poster-samagri ko apne vivek
-ke anusar dekhein. Yadi samagri unke uddeshyon aur niyamon ke anukul
-lage, to ve ise padhne, saanjha karne ya is par samvad karne par vichar
-kar sakte hain.
+nivedan hai ki ve is parichay aur uplabdh poster-samagri ko apne vivek ke anusar dekhein. Yadi samagri unke uddeshyon aur niyamon ke anukul lage, to ve ise padhne, saajha karne ya is par samvad karne par vichar kar sakte hain.
 
-Yah nivedan kisi prakar ka dabav, anivarya sahyog ya arthik sahayata ki
-maang nahin hai. Har sanstha apni niti, samay, sansadhan aur mulyankan
-ke anusar swatantra nirnay le.
+Yah nivedan kisi prakar ka dabav, sahyog ya arthik sahayata ki maang nahin hai. Har sanstha apni niti, samay, sansadhan aur mulyankan ke anusar swatantra nirnay le.
 
 ## 10. JEEVAN-PARICHAY AUR SAMAGRI
 
 **Amarsingh Parihar --- Suryamahayogiji**\
-- B.Tech, HBTI Kanpur (1986)\
-- Former Director, DGFASLI, associated with the Ministry of Labour,
-Government of India\
+- B.Tech, H.B.T.I. Kanpur (1986)\
+- Former Director, DGFASLI, Ministry of Labour, Government of India\
 - Spiritual interests: Bhagavad Gita, Surya-parampara, guru-kripa,
 sadhana and paropkar\
-- Apne adhyatmik anubhavon aur vicharon ko ve vyaktigat anubhav aur
-paramparik vyakhya ke roop mein prastut karte hain.
+- Apne adhyatmik anubhavon aur vicharon ko ve vyaktigat anubhav aur parampar ki vyakhya ke roop mein prastut karte hain.
 
 ### Website and Contact
 
@@ -328,6 +322,165 @@ capitalization ko jaisa hai vaisa hi rakhein.
 
 **Shraddha ke saath vivek. Gyan ke saath vinamrata. Aur sadhana ke saath
 paropkar.**
+:::
+
+------------------------------------------------------------------------
+
+# 🔴 PART II --- हिंदी संस्करण 🔴
+
+## ००. आधारशिला --- परम्परा और गीता का संदेश
+
+भारतीय आध्यात्मिक परम्परा में गीता के ज्ञान को गुरु-परम्परा, श्रद्धा, साधना और विवेक
+के माध्यम से समझने की बात कही गई है। **सूर्य गीता** का उद्देश्य भगवद्गीता के तत्त्व,
+सूर्य के प्रतीकात्मक महत्त्व, गुरु-कृपा और परोपकार के संदेश पर विचार-विमर्श को आगे
+बढ़ाना है।
+
+सूर्यमहायोगीजी, जिनका गृहस्थ नाम **अमर सिंह परिहार** है, अपने जीवन के अनुभवों को
+आध्यात्मिक दृष्टिकोण से प्रस्तुत करते हैं। उनके अनुसार, उनके जीवन में **७ नवम्बर १९९९**
+का दिन एक महत्त्वपूर्ण आध्यात्मिक अनुभव से जुड़ा रहा। वे इस अनुभव को अपनी साधना,
+गुरु-कृपा और गीता-तत्त्व की खोज के सन्दर्भ में देखते हैं।
+
+यह परिचय किसी व्यक्ति पर विश्वास थोपने के लिए नहीं, बल्कि पाठकों को विचार, अध्ययन
+और संवाद के लिए आमन्त्रित करने के उद्देश्य से तैयार किया गया है।
+
+## ०१. भगवद्गीता ४.१ --- ज्ञान की परम्परा
+
+भगवद्गीता ४.१ में श्रीकृष्ण कहते हैं कि उन्होंने इस अविनाशी योग को विवस्वान अर्थात् सूर्य को बताया; विवस्वान ने मनु को और मनु ने इक्ष्वाकु को बताया। इस श्लोक को परम्परा में ज्ञान के संचार और गुरु-शिष्य सम्बन्ध के सन्दर्भ में समझा जाता है।
+
+> 🔴 **भगवद्गीता ४.१** 🔴
+>
+> **इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।**\
+> **विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥**
+
+इस श्लोक में सूर्य को ज्ञान-परम्परा की एक महत्त्वपूर्ण कड़ी के रूप में याद किया गया है।
+सूर्यमहायोगीजी इस सन्दर्भ को अपनी आध्यात्मिक खोज का केन्द्रीय विषय मानते हैं। कृष्ण,
+सूर्य, हनुमानजी और गुरु-परम्परा से सम्बन्धित विचारों को वे गीता-तत्त्व समझने की अपनी
+यात्रा में रखते हैं।
+
+यह एक आध्यात्मिक व्याख्या है; अलग-अलग सम्प्रदायों में इस परम्परा को समझने के अलग
+दृष्टिकोण हो सकते हैं।
+
+## ०२. असम्भव, विनम्रता और विवेक
+
+भारतीय कथाओं में जटायु और सम्पाति जैसे पक्षी-पात्रों का उल्लेख आता है। सूर्यमहायोगीजी
+इन कथाओं को सूर्य, दृष्टि, साहस, सीमा और साधना के प्रतीकात्मक अर्थ में देखते हैं। इन प्रसंगों को यहाँ धार्मिक-कथात्मक और आध्यात्मिक चिन्तन के रूप में रखा गया है, न कि वैज्ञानिक प्रमाण के रूप में।
+
+आध्यात्मिकता में किसी भी असाधारण अनुभव को समझते समय विनम्रता, विवेक, प्रमाण और
+सुरक्षा का ध्यान रखना आवश्यक है। किसी व्यक्ति के अनुभव का सम्मान किया जा सकता है, साथ ही उसकी व्याख्या पर प्रश्न और संवाद भी किया जा सकता है।
+
+## ०३. चेतावनी --- सूर्य को सीधे न देखें
+
+> 🔴 **सुरक्षा सबसे पहले** 🔴
+>
+> सूर्य को नंगी आँखों से सीधे देखना, चाहे थोड़े समय के लिए ही क्यों न हो, रेटिना को
+> स्थायी नुकसान पहुँचा सकता है। सूर्य के प्रतिबिम्ब को किसी दूसरे व्यक्ति की आँख में देखना
+> भी सुरक्षित आध्यात्मिक विधि नहीं है। इस वेबसाइट का उद्देश्य किसी को ऐसा करने के
+> लिए कहना नहीं है।
+>
+> **कृपया सूर्य को सीधे न देखें।** धार्मिक श्रद्धा या व्यक्तिगत अनुभव आँखों की सुरक्षा के
+> नियम को बदल नहीं सकते। सूर्य-उपासना के लिए प्रार्थना, मन्त्र, ध्यान या सुरक्षित
+> पारम्परिक विधि अपनाई जा सकती है---बिना सूर्य को सीधे देखे।
+
+सूर्यमहायोगीजी अपने अनुभवों को "सहज भाव" और "सात्त्विक त्रिनेत्र" जैसे आध्यात्मिक शब्दों
+से व्यक्त करते हैं। इन शब्दों को उनके व्यक्तिगत आध्यात्मिक अनुभव की भाषा के रूप में समझा
+जाए, न कि किसी को सूर्य-दर्शन का प्रयोग करने का निर्देश।
+
+## ०४. गुरु-विश्लेषण --- कृष्ण, शिव और साधना
+
+भारतीय परम्परा में भगवान कृष्ण और भगवान शिव, दोनों को गहन आध्यात्मिक ज्ञान, योग और अनुग्रह से जोड़ा जाता है। गीता, पुराण, सन्त-वाणी और रामचरितमानस जैसे ग्रन्थ
+अलग-अलग दृष्टिकोणों से भक्ति, ज्ञान, कर्म और गुरु-कृपा पर प्रकाश डालते हैं।
+
+सूर्यमहायोगीजी अपनी आध्यात्मिक समझ में कृष्ण, सूर्य, हनुमानजी और अपने गुरु **धर्म सम्राट करपात्री जी महाराज** की परम्परा को महत्त्व देते हैं। वे अपने जीवन के अनुभवों की
+व्याख्या गुरु-कृपा और साधना के सन्दर्भ में करते हैं। इस व्याख्या को उनका श्रद्धापूर्वक व्यक्त किया गया व्यक्तिगत दृष्टिकोण समझा जाए।
+
+## ०५. देवगुरु बृहस्पति --- ज्ञान, विवेक और सद्बुद्धि
+
+भारतीय धार्मिक परम्परा में बृहस्पति को देवगुरु, ज्ञान, नीति, विवेक और मार्गदर्शक माना गया है। ज्ञान का उद्देश्य केवल
+जानकारी बढ़ाना नहीं, बल्कि व्यक्ति के आचरण को भी बेहतर बनाना है।
+
+गीता-तत्त्व पर चिन्तन करते हुए प्रश्न पूछना, ग्रन्थों का अध्ययन करना, अपने अनुभव को
+परखना और लोक-कल्याण को प्राथमिकता देना---ये सभी आध्यात्मिक प्रगति के महत्त्वपूर्ण
+पहलू हैं।
+
+## ०६. दैत्यगुरु शुक्राचार्य --- विचार, प्रश्न और सन्तुलन
+
+शुक्राचार्य को परम्परा में असुरों के गुरु के रूप में याद किया जाता है।  ज्ञान, शक्ति और तर्क का उपयोग किस उद्देश्य से किया जा रहा है, यह महत्त्वपूर्ण है।
+
+आध्यात्मिकता को अन्धविश्वास या विवाद तक सीमित करने के बजाय श्रद्धा के साथ विवेक,प्रश्न और नैतिक जिम्मेदारी का सन्तुलन बनाना चाहिए। सूर्य गीता इसी प्रकार के खुले और मर्यादित संवाद का निमन्त्रण है।
+
+## ०७. रामचरितमानस --- शिव, उमा और पवित्र कथा
+
+रामचरितमानस में गोस्वामी तुलसीदासजी ने शिव और उमा के माध्यम से राम-कथा के पवित्र
+संचार को सुन्दर भाषा में व्यक्त किया है। नीचे दिए गए प्रसिद्ध पंक्ति-अंश इस परम्परा की
+भक्ति-भावना को याद दिलाते हैं:
+
+> 🔴 **रामचरितमानस --- श्रद्धा और कथा-परम्परा** 🔴
+>
+> "रचि महेस निज मानस राखा, पाइ सुसमउ सिवा सन भाषा॥"
+>
+> "रामचरितमानस मुनि भवन, बिरचेउ संभु सुहावन पावन॥"
+>
+> "संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"
+
+इन पंक्तियों को परम्परा में शिव द्वारा राम-कथा के मनन और उमा को सुनाए जाने के सन्दर्भ में पढ़ा जाता है। 
+
+## ०८. निष्कर्ष --- परोपकार ही जीवन का सार, आधार  । 
+
+आध्यात्मिक ज्ञान का महत्त्वपूर्ण लक्ष्य व्यक्ति के जीवन में दया, सेवा, सत्य, विनम्रता और 
+परोपकार को बढ़ाना है। सूर्यमहायोगीजी का सन्देश भी पाठकों को अपने जीवन में
+लोक-कल्याण और दूसरों के प्रति हित-भाव पर विचार करने के लिए आमन्त्रित करता है।
+
+> 🔴 **परहित सरिस धरम नहि भाई** 🔴
+>
+> **परहित बस जिन्ह के मन माहीं।\
+> तिन्ह कहुँ जग दुर्लभ कछु नाहीं॥**
+
+इन पंक्तियों का मूल सन्देश है कि दूसरों का हित और दूसरों को पीड़ा न पहुँचाना, धार्मिक जीवन के महत्त्वपूर्ण आधार हैं।
+
+## ०९. संस्थाओं से विनम्र निवेदन
+
+NGOs, ट्रस्टों, फाउंडेशनों, मन्दिर-प्रबन्धन समितियों, ज्वेलर्स एसोसिएशनों, क्लबों तथा
+अन्य सामाजिक-सांस्कृतिक संस्थाओं से विनम्र निवेदन है कि वे इस परिचय और उपलब्ध
+पोस्टर-सामग्री को अपने विवेक के अनुसार देखें। यदि सामग्री उनके उद्देश्यों और नियमों के अनुकूल लगे, तो वे इसे पढ़ने, साझा करने या इस पर संवाद करने पर विचार कर सकते हैं।
+
+यह निवेदन किसी प्रकार का दबाव, अनिवार्य सहयोग या आर्थिक सहायता की माँग नहीं है।
+प्रत्येक संस्था अपनी नीति, समय, संसाधन और मूल्यांकन के अनुसार स्वतंत्र निर्णय ले।
+
+## १०. जीवन-परिचय और सामग्री
+
+**अमर सिंह परिहार --- सूर्यमहायोगीजी** - बी.टेक., H.B.T.I.  कानपुर (१९८६) - पूर्व
+निदेशक, DGFASLI, 
+श्रम मंत्रालय, भारत सरकार,
+आध्यात्मिक रुचियाँ:  भगवद्गीता, सूर्य-परम्परा, गुरु-कृपा, साधना और परोपकार - अपने आध्यात्मिक अनुभवों और
+विचारों को वे व्यक्तिगत अनुभव तथा पारम्परिक व्याख्या के रूप में प्रस्तुत करते हैं।
+
+### वेबसाइट और सम्पर्क
+
+-   **Surya Gita वेबसाइट:** https://amarsinghparihar.github.io/surya-gita
+-   **WhatsApp:** +91 8126914149
+-   **Email:** suryamahayogiji@gmail.com
+-   **X:** @suryamahayogiji
+-   **YouTube:** @suryamahayogiji
+
+### पोस्टर और समाचार-कतरन फ़ाइलें
+
+रिपॉज़िटरी में उपलब्ध सामग्री के नामों में ये फ़ाइलें शामिल हो सकती हैं:
+
+`amai-id-0.jpg` · `amai-id-1.jpg` · `amai-id-2.jpg`\
+`amar-000.jpg` · `amar-001.jpg` · `amar-002.jpg` · `amar-003.jpg`\
+`amar-news-1.jpg` से `amar-news-34.jpg` तक\
+`organiser-news-1.jpg` · `organiser-news-2.jpg`
+
+फ़ाइलों को रिपॉज़िटरी में अपलोड करते समय इनके सही नाम और बड़े-छोटे अक्षरों को ज्यों का
+त्यों रखें।
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+![परोपकार](https://img.shields.io/badge/PAROPKAR-सेवा%20और%20लोक%20कल्याण-B00020?style=for-the-badge&labelColor=FFFFFF)
+
+**श्रद्धा के साथ विवेक। ज्ञान के साथ विनम्रता। और साधना के साथ परोपकार।**
+:::
 
 
 
