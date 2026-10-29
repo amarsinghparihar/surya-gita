@@ -233,16 +233,13 @@ vyaktigat drishtikon samjha jaye.
 
 ## 05. DEV-GURU BRIHASPATI --- GYAN, VIVEK AUR SADBUDDHI
 
-Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh
-hai ki gyan ka uddeshya keval jankari badhana nahin, balki vyakti ke
+Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Is prateek ka sandesh hai ki gyan ka uddeshya keval jankari badhana nahin, balki vyakti ke
 achar, vichar ko bhi behtar banana hai.
-
 Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye sab adhyatmik pragati ke mahatvapurn pehlu hain.
 
 ## 06. DAITYA-GURU SHUKRACHARYA --- VICHAR, PRASHN AUR SANTULAN
 
 Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai:  gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah mahatvapurn hai.
-
 Adhyatma ko andhvishwas ya vivad tak simit karne ke bajay, shraddha, vivek, prashn aur naitik zimmedari ka santulan banana chahiye.
 Surya Gita isi tarah ke khule aur maryadit samvad ka nimantran hai.
 
