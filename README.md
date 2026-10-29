@@ -1041,7 +1041,979 @@ Jo maine Grey-Red fix kiya hai
 **श्रद्धा के साथ विवेक। ज्ञान के साथ विनम्रता। और साधना के साथ परोपकार।**
 
 </div>
+<div align="center">
 
+[Surya Gita](https://img.shields.io/badge/SURYA%20GITA-GITA%20TATTVA%20GYAN-5A5A5A?style=for-the-badge&labelColor=B00020)
+[Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-SHRADDHA%20AUR%20VIVEK-B00020?style=for-the-badge&labelColor=5A5A5A)
+[Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-5A5A5A?style=for-the-badge&labelColor=B00020)
+
+🔴 SURYAMAHAYOGIJI --- SURYA GITA 🔴
+GITA TATTVA GYAN • GURU PARAMPARA • ADHYATMA • PAROPKAR
+**Hinglish Introduction | हिंदी परिचय**
+
+</div>
+
+> **READING NOTE:** This document presents a spiritual account, personal experiences, scriptural interpretations, and an invitation to thoughtful dialogue.
+
+---
+
+<div align="center">
+
+🔴 PART I --- HINGLISH VERSION 🔴
+
+</div>
+
+00. AADHARSHILA --- PARAMPARA AUR GITA KA SANDESH
+
+Bharatiya adhyatmik parampara mein Gita ke gyan ko guru-parampara, shraddha, sadhana aur vivek ke madhyam se samajhne ki baat kahi gayi hai. **Surya Gita** ka uddeshya Bhagavad Gita ke tattva, Surya ke prateekatmak mahatva, guru-kripa aur paropkar ke sandesh par vichar-vimarsh ko aage badhana hai.
+
+Suryamahayogiji, jinka grihastha naam **Amarsingh Parihar** hai, apne jeevan ke anubhavon ko ek adhyatmik drishtikon se prastut karte hain.
+
+Suryamahayogiji, jinka grihastha naam **Amarsingh Parihar** hai, apne jeevan ke anubhavon ko ek adhyatmik drishtikon se prastut karte hain. Unke anusar, unke jeevan mein **7 November 1999** ka din ek mahatvapurn adhyatmik anubhav se juda raha.
+
+01. BHAGAVAD GITA 4.1 --- GYAN KI PARAMPARA
+
+<div align="center">
+
+> 🔴 **BHAGAVAD GITA 4.1** 🔴
+>
+> **इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।**
+> **विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥**
+>
+> *Imam vivasvate yogam proktavan aham avyayam; vivasvan manave praha manur ikshvakave 'bravit.*
+
+**IS SHLOK MEIN SURYA KO GYAN-PARAMPARA KI EK MAHATVAPURN KADI KE ROOP MEIN YAAD KIYA GAYA HAI.**
+
+</div>
+
+02. ASAMBHAV, VINAMRATA AUR VIVEK
+
+Bharatiya kathao mein Jatayu aur Sampati jaise pakshi-patron ka ullekh aata hai. Suryamahayogiji in kathao ko Surya, drishti, sahas, seema aur sadhana ke prateekatmak arth mein dekhte hain.
+
+03. CHETAVANI --- SURYA KO SEEDHE NA DEKHEIN
+
+<div align="center">
+
+> 🔴 **SURAKSHA SABSE PEHLE** 🔴
+>
+> **Surya ko nangi aankhon se seedhe dekhna, chahe thode samay ke liye hi kyon na ho, retina ko sthayi nuksan pahuncha sakta hai.**
+>
+> > **Surya ko nangi aankhon se seedhe dekhna, chahe thode samay ke liye hi kyon na ho, retina ko sthayi nuksan pahuncha sakta hai.**
+> **Kripya Surya ko seedhe na dekhein.**
+
+</div>
+
+04. GURU-VISHLESHAN --- KRISHNA, SHIVA AUR SADHANA
+
+Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan adhyatmik gyan, yog aur anugrah se joda jata hai. Suryamahayogiji apni adhyatmik samajh mein Krishna, Surya, Hanumanji aur apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva dete hain.
+
+05. DEV-GURU BRIHASPATI --- GYAN, VIVEK, SADBUDDHI
+
+Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye sab adhyatmik pragati ke mahatvapurn pehlu hain.
+
+06. DAITYA-GURU SHUKRACHARYA --- YOG - BHOG ME SANTULAN
+
+Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai: gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah mahatvapurn hai.
+
+07. RAMCHARITMANAS --- SHIVA - UMA SAMVAD KATHA
+
+<div align="center">
+
+> 🔴 **RAMCHARITMANAS --- SHRADDHA AUR KATHA-PARAMPARA** 🔴
+>
+> **"रचि महेस निज मानस राखा, पाइ सुसमउ सिवा सन भाषा॥"**
+> **"रामचरितमानस मुनि भवन, बिरचेउ संभु सुहावन पावन॥"**
+>> **"रचि महेस निज मानस राखा, पाइ सुसमउ सिवा सन भाषा॥"**
+> **"रामचरितमानस मुनि भवन, बिरचेउ संभु सुहावन पावन॥"**
+> **"संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"**
+
+</div>
+
+08. NISHKARSH --- PAROPKAR HI JEEVAN KA AADHAR
+
+<div align="center">
+
+> 🔴 **PARHIT SARIS DHARAM NAHI BHAI** 🔴
+>
+> **परहित सरिस धरम नहि भाई।**
+> **परहित बस जिन्ह के मन माहीं।**
+> **तिन्ह कहुँ जग दुर्लभ कछु नाहीं॥**
+
+</div>
+
+09. SANSTHAON SE VINAMRA NIVEDAN
+
+NGOs, trusts, foundations, mandir-prabandhan samitiyon, jewellers associations, clubs aur anya samajik-sanskritik sansthaon se vinamra nivedan hai ki ve is parichay aur uplabdh poster-samagri ko apne vivek ke anusar dekhein.
+
+Yah nivedan kisi prakar ka dabav, sahyog ya arthik sahayata ki maang nahin hai.
+
+10. JEEVAN-PARICHAY AUR SAMAGRI
+
+**Amarsingh Parihar --- Suryamahayogiji**
+- **B.Tech, H.B.T.I. Kanpur (1986)**
+- **Former Director, DGFASLI, Ministry of Labour, Government of India**
+
+Website and Contact
+- **Surya Gita website:** https://amarsinghparihar.github.io/surya-gita
+- **WhatsApp:** +91 8126914149
+- **Email:** suryamahayogiji@gmail.com
+Ye lijiye Prabhuvar *325 se 575 tak* ka PK version - ye sabse bada hissa hai:
+---
+
+<div align="center">
+
+🔴 PART II --- HINDI VERSION 🔴
+
+</div>
+
+00. AADHARSHILA --- PARAMPARA AUR GITA KA SANDESH
+
+Bharatiya adhyatmik parampara mein Gita ke gyan ko guru-parampara, shraddha, sadhana aur vivek ke madhyam se samajhne ki parampara rahi hai. **Surya Gita** ka uddeshya Bhagavad Gita ke tattva, Surya ke prateekatmak mahatva, guru-kripa aur paropkar ke sandesh par chintan ko aage badhana hai.
+
+Suryamahayogiji, jinka grihastha naam **Amarsingh Parihar** hai, apne jeevan-anubhavon ko adhyatmik drishtikon se prastut karte hain.
+
+01. BHAGAVAD GITA 4.1 --- GYAN KI PARAMPARA
+
+<div align="center">
+
+> 🔴 **BHAGAVAD GITA 4.1** 🔴
+>
+> **इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।**
+> **विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥**
+
+</div>
+
+Is shlok mein Surya ko gyan-parampara ki ek mahatvapurn kadi ke roop mein yaad kiya gaya hai. Parampara ke anusar yah gyan Vivasvan (Surya) se Manu aur Manu se Ikshvaku tak pahucha.
+
+02. ASAMBHAV, VINAMRATA AUR VIVEK
+
+Bharatiya kathao mein Jatayu aur Sampati ki katha prasiddh hai. Suryamahayogiji inhe Surya, drishti, sahas aur seema ke prateek ke roop mein dekhte hain.
+
+Ek adhyatmik sandesh yah hai ki apni seema ko samajhna aur vinamrata rakhna bhi sadhana ka hissa hai.
+
+03. CHETAVANI --- SURYA KO SEEDHE NA DEKHEIN
+
+<div align="center">
+
+> 🔴 **SURAKSHA SABSE PEHLE** 🔴
+>
+> **Surya ko nangi aankhon se seedhe dekhna aankhon ko sthayi nuksan pahuncha sakta hai.**
+> **Kripya Surya ko seedhe na dekhein. Surakshit tarikon ka hi upyog karein.**
+
+</div>
+
+04. GURU-VISHLESHAN --- KRISHNA, SHIVA AUR SADHANA
+
+Bharatiya parampara mein Bhagwan Krishna ko Yogeshwar aur Bhagwan Shiva ko Adiyogi ke roop mein dekha jata hai. Suryamahayogiji apni samajh mein Krishna, Surya, Hanumanji aur apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva dete hain.
+
+Guru-kripa, shastra-adhyayan aur lok-kalyan ki bhavna --- ye teeno adhyatmik marg ke aadhar hain.
+
+05. DEV-GURU BRIHASPATI --- GYAN, VIVEK, SADBUDDHI
+
+Brihaspati ko dev-guru, gyan, niti aur vivek ka prateek mana gaya hai. Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna aur apne anubhav ko parakhna mahatvapurn hai.
+
+06. DAITYA-GURU SHUKRACHARYA --- YOG-BHOG ME SANTULAN
+
+Shukracharya ki katha se yah sandesh milta hai ki gyan aur shakti ka upyog kis uddeshya se ho raha hai, yah dekhna zaruri hai.
+
+Santulan, sanyam aur paropkar ki bhavna hi gyan ko kalyankari banati hai.
+
+07. RAMCHARITMANAS --- SHIVA-UMA SAMVAD
+
+<div align="center">
+
+> 🔴 **RAMCHARITMANAS KI PARAMPARA** 🔴
+>
+> **रचि महेस निज मानस राखा, पाइ सुसमउ सिवा सन भाषा।**
+> **संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥**
+
+</div>
+
+Shiva ne pehle is katha ko apne man mein racha, phir uchit samay par Uma ko sunaya. Yahi katha-parampara guru-shishya parampara ka aadhar hai.
+
+08. NISHKARSH --- PAROPKAR HI JEEVAN KA AADHAR
+
+<div align="center">
+
+> 🔴 **PARHIT SARIS DHARAM NAHI BHAI** 🔴
+>
+> **परहित सरिस धरम नहि भाई।**
+> **पर पीड़ा सम नहि अधमाई॥**
+
+</div>
+
+Lok-kalyan aur paropkar hi jeevan ka saar hai.
+
+09. SANSTHAON SE VINAMRA NIVEDAN
+
+NGOs, trusts, mandir samitiyon aur samajik sansthaon se nivedan hai ki ve is samagri ko apne vivek se dekhein. Yah kisi prakar ka dabav ya arthik sahayata ki maang nahi hai.
+
+10. JEEVAN-PARICHAY
+
+**Amarsingh Parihar --- Suryamahayogiji**
+- B.Tech, H.B.T.I. Kanpur (1986)
+- Former Director, DGFASLI
+
+**Sampark:** suryamahayogiji@gmail.com | WhatsApp: +91 8126914149
+*Prabhuvar ab bacha hua 576-1005 chahiye kya?*
+04. GURU-VISHLESHAN --- KRISHNA, SHIVA AUR SADHANA
+
+Bharatiya parampara mein Bhagwan Krishna ko Yogeshwar aur Bhagwan Shiva ko Adiyogi ke roop mein dekha jata hai. Suryamahayogiji apni samajh mein Krishna, Surya, Hanumanji aur apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva dete hain.
+
+Guru-kripa, shastra-adhyayan aur lok-kalyan ki bhavna --- ye teeno adhyatmik marg ke aadhar hain. Surya Gita ka chintan inhi tattvon par kendrit hai.
+
+Surya ko sakshi, prerna aur gyan-parampara ke prateek ke roop mein dekha jata hai. Krishna ki Gita aur Shiva ki sadhana dono hi antatah ek hi tattva --- atma-kalyan aur lok-kalyan --- ki ore le jati hain.
+
+05. DEV-GURU BRIHASPATI --- GYAN, VIVEK, SADBUDDHI
+
+Bharatiya dharmik parampara mein Brihaspati ko dev-guru, gyan, niti, vivek aur margdarshan se sambandhit mana gaya hai. 
+
+Gita-tattva par chintan karte hue prashn poochhna, granthon ka adhyayan karna, apne anubhav ko parakhna aur lok-kalyan ko prathmikta dena---ye sab adhyatmik pragati ke mahatvapurn pehlu hain.
+
+Brihaspati ka sandesh hai: vivek se nirnay lo, dhairya se sadho, aur gyan ko ahankar nahi, seva ka madhyam banao.
+
+06. DAITYA-GURU SHUKRACHARYA --- YOG - BHOG ME SANTULAN
+
+Shukracharya ko parampara mein asuron ke guru ke roop mein yaad kiya jata hai. Is katha-parampara se ek vyapak sandesh bhi liya ja sakta hai: gyan, shakti aur tark ka upyog kis uddeshya se kiya ja raha hai, yah mahatvapurn hai.
+
+Santulan, sanyam aur paropkar ki bhavna hi gyan ko kalyankari banati hai. Yadi gyan ke saath karuna nahi hai, to vah adhura hai.
+Santulan, sanyam aur paropkar ki bhavna hi gyan ko kalyankari banati hai. Yadi gyan ke saath karuna nahi hai, to vah adhura hai.
+
+07. RAMCHARITMANAS --- SHIVA - UMA SAMVAD KATHA
+
+<div align="center">
+
+> 🔴 **RAMCHARITMANAS --- SHRADDHA AUR KATHA-PARAMPARA** 🔴
+>
+> **"रचि महेस निज मानस राखा, पाइ सुसमउ सिवा सन भाषा॥"**
+> **"रामचरितमानस मुनि भवन, बिरचेउ संभु सुहावन पावन॥"**
+> **"संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"**
+> **"सोइ मम हियँ बसेउ अस देवा, बिनती करउँ कृपा करि देवा॥"**
+
+</div>
+
+Shiva ne pehle is pavitra charit ko apne manas mein racha, phir uchit samay pa kar use Uma ko sunaya. Yahi katha-parampara aage badhti hui Rishiyon, Muniyon aur bhakton tak pahuchi.
+
+Is parampara ka mool sandesh hai: Gyan ko hridaya mein dharan karo, samay ka intezar karo, aur adhikari shrota milne par hi use prem se baanto.
+
+08. NISHKARSH --- PAROPKAR HI JEEVAN KA AADHAR
+
+<div align="center">
+
+> 🔴 **PARHIT SARIS DHARAM NAHI BHAI** 🔴
+>
+> **परहित सरिस धरम नहि भाई।**
+> **पर पीड़ा सम नहि अधमाई॥**
+> **परहित बस जिन्ह के मन माहीं।**
+> **तिन्ह कहुँ जग दुर्लभ कछु नाहीं॥**
+
+</div>
+
+Goswami Tulsidas Ji ka yah doha jeevan ka saar hai. Dusron ke hit ke barabar koi dharma nahi hai, aur dusron ko peeda dene ke barabar koi paap nahi hai.
+
+Jinke man mein paropkar basa hai, unke liye sansar mein kuch bhi durlabh nahi hai.
+Jinke man mein paropkar basa hai, unke liye sansar mein kuch bhi durlabh nahi hai.
+
+09. SANSTHAON SE VINAMRA NIVEDAN
+
+NGOs, trusts, foundations, mandir-prabandhan samitiyon, jewellers associations, clubs aur anya samajik-sanskritik sansthaon se vinamra nivedan hai ki ve is parichay aur uplabdh poster-samagri ko apne vivek ke anusar dekhein.
+
+Yah nivedan kisi prakar ka dabav, sahyog ya arthik sahayata ki maang nahin hai. Yah keval ek soochna aur adhyatmik samvad ka nimantran hai. Aap apne star par is vishay par charcha, pradarshani ya adhyayan ka ayojan apne vivek se kar sakte hain.
+
+10. JEEVAN-PARICHAY AUR SAMAGRI
+
+**Amarsingh Parihar --- Suryamahayogiji**
+- **B.Tech, H.B.T.I. Kanpur (1986)**
+- **Former Director, DGFASLI, Ministry of Labour, Government of India**
+- **Adhyatmik Sadhak aur Surya Gita ke lekhak**
+
+Website and Contact
+- **Surya Gita website:** https://amarsinghparihar.github.io/surya-gita
+- **Main Posters Drive:** https://drive.google.com
+- **WhatsApp:** +91 8126914149
+- **Email:** suryamahayogiji@gmail.com
+
+Pramukh Granth aur Samagri
+- Surya Gita - Sampurn Granth
+- Gita Tattva Vivechan
+- Guru Parampara aur Sadhana Marg
+
+---
+
+<div align="center">
+
+🔴 PART III --- POSTERS & RESOURCES 🔴
+
+SURYA GITA POSTERS - SAMAGRI
+
+</div>
+
+Neeche diye gaye posters janshajagran aur adhyatmik charcha hetu banaye gaye hain.
+Neeche diye gaye posters janshajagran aur adhyatmik charcha hetu banaye gaye hain.
+
+<div align="center">
+
+| Poster | Vishay |
+| :--- | :--- |
+| Poster 01 | Surya Gita - Mukhya Sandesh |
+| Poster 02 | Gita 4.1 - Parampara Gyan |
+| Poster 03 | Surya - Sakshi Bhav |
+
+</div>
+
+<div align="center">
+
+🔴 Poster Gallery - Darshan Kijiye 🔴
+
+**Note:** Sabhi posters high-resolution mein uplabdh hain. Kripya website par ja kar download karein.
+
+</div>
+
+---
+
+<div align="center">
+
+🔴 PART IV --- SAMARPAN AUR PRARTHANA 🔴
+
+GURU CHARANON MEIN SAMARPAN
+
+> **त्वमेव माता च पिता त्वमेव, त्वमेव बन्धुश्च सखा त्वमेव।**
+> **त्वमेव विद्या द्रविणं त्वमेव, त्वमेव सर्वं मम देव देव॥**
+
+</div>
+
+Yah sampurn karya **Dharm Samrat Karpatri Ji Maharaj**, **Guru Parampara**, **Bhagwan Surya Narayan**, **Bhagwan Shri Krishna** aur **Sanatan Dharma** ke charanon mein samarpit hai.
+
+---
+
+<div align="center">
+
+**|| LOKAHA SAMASTAHA SUKHINO BHAVANTU ||**
+**|| SARVE BHAVANTU SUKHINAH ||**
+
+🔴 JAI SURYA NARAYAN 🔴
+🔴 JAI SHRI KRISHNA 🔴
+🔴 JAI GURU DEV 🔴
+
+</div>
+
+---
+---
+
+<div align="center">
+
+**|| LOKAHA SAMASTAHA SUKHINO BHAVANTU ||**
+**|| SARVE BHAVANTU SUKHINAH ||**
+
+🔴 JAI SURYA NARAYAN 🔴
+🔴 JAI SHRI KRISHNA 🔴
+🔴 JAI GURU DEV 🔴
+
+</div>
+
+---
+
+<div align="center">
+
+CONTACT & SUPPORT - SAMAGRI
+
+</div>
+
+SAMAGRI KAISE PRAPT KAREIN?
+
+Sabhi granth, posters aur anya samagri nimnalikhit madhyamon se uplabdh hai:
+
+<div align="center">
+
+| Madhyam | Vivaran |
+| :--- | :--- |
+| Website | https://amarsinghparihar.github.io/surya-gita |
+| Google Drive | All Posters & Books |
+| Email | suryamahayogiji@gmail.com |
+| WhatsApp | +91 8126914149 |
+
+</div>
+
+Vishesh Nivedan
+
+Kripya is gyan ko adhik se adhik logon tak pahunchayein. Yadi aap kisi sanstha, mandir, school ya samuday se jude hain, to vahan is vishay par charcha ka ayojan kar sakte hain.
+
+---
+
+<div align="center">
+
+ANT MEIN EK PRARTHANA
+
+> **असतो मा सद्गमय।**
+> **तमसो मा ज्योतिर्गमय।**
+> **मृत्योर्मा अमृतं गमय॥**
+
+</div>
+
+He Prabhu, hume asatya se satya ki ore, andhkar se prakash ki ore, aur mrityu se amrit ki ore le chalo.
+
+**Yahi Surya Gita ka sandesh hai.**
+Prabhuvar haan, upar ka sab ho gaya hai:
+
+- *275-325* - Ramcharitmanas + Nishkarsh + Sanstha Nivedan + Jeevan Parichay
+- *325-575* - PART II HINDI VERSION pura (Gita 4.1 se leke Posters tak)
+- *575-625* - Contact & Prarthana
+- *625-675* - Appendix + Poster Soochi + Copyright
+
+Ab upar kuch nahi bacha is hisse me.
+
+*Aapko ab kaunsa chahiye?*
+- 675 se 725?
+- Ya 1 se 275 tak ka shuru wala?
+---
+
+<div align="center">
+
+JAI GURU DEV
+
+</div>
+
+---
+
+<div align="center">
+
+SAMAPAN
+
+</div>
+
+> **इदं ते नातपस्काय नाभक्ताय कदाचन।**
+> **न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति॥ Gita 18.67**
+
+Yah gyan tapasvi, bhakt aur shraddhavan ko hi dena chahiye.
+
+---
+
+<div align="center">
+
+DHANYAWAD
+
+</div>
+
+Is divya yatra mein sahyog dene wale sabhi gurujano, mitron, parivar jano aur shubhchintakon ka hriday se dhanyawad.
+
+Vishesh dhanyawad:
+
+- **Dharm Samrat Karpatri Ji Maharaj** - Prerna Srot
+- **Pujya Gurudev** - Margdarshan
+- **Sabhi Pathakgan** - Is gyan ko grahan karne ke liye
+
+---
+
+<div align="center">
+
+GURU BRAHMA GURU VISHNU GURU DEVO MAHESHWARAHA
+GURU SAKSHAT PARA BRAHMA TASMAI SHRI GURAVE NAMAHA
+
+</div>
+
+---
+
+<div align="center">
+
+**|| ITI SURYA GITA SAMAPTAM ||**
+
+**|| OM TAT SAT ||**
+**|| OM SHANTI SHANTI SHANTI ||**
+
+</div>
+
+---
+
+<div align="center">
+
+POSTER - VISHESH SANDESH
+
+SURYA NAMASKAR - EK MAHAYOG
+
+</div>
+
+Surya Namaskar keval vyayam nahi, ek sampurna sadhana hai.
+Surya Namaskar keval vyayam nahi, ek sampurna sadhana hai.
+
+---
+
+<div align="center">
+
+Surya Namaskar ke 12 Mantra
+
+| Kram | Mantra | Labh |
+| :--- | :--- | :--- |
+| 1 | Om Mitraya Namah | Mitrata |
+| 2 | Om Ravaye Namah | Tej |
+| 3 | Om Suryaya Namah | Shakti |
+| 4 | Om Bhanave Namah | Prakash |
+| 5 | Om Khagaya Namah | Gati |
+| 6 | Om Pushne Namah | Poshan |
+| 7 | Om Hiranyagarbhaya Namah | Garbha Shakti |
+
+</div>
+
+<div align="center">
+
+| 8 | Om Marichaye Namah | Vivek |
+| 9 | Om Adityaya Namah | Aditi Putra |
+| 10 | Om Savitre Namah | Srishti |
+| 11 | Om Arkaya Namah | Aradhya |
+| 12 | Om Bhaskaraya Namah | Prakashak |
+
+</div>
+
+---
+
+<div align="center">
+
+Surya Gita Ka Saar - 7 Binduon Mein
+
+1.  **Surya Sakshi Hai** - Sab karmo ka sakshi
+2.  **Gyan Parampara** - Surya se Manu tak
+3.  **Guru Bina Gyan Nahi** - Guru mahima apar
+4.  **Karm Yog** - Nishkam karm
+5.  **Paropkar** - Sabse bada dharm
+6.  **Bhakti** - Surya aur Krishna ek hi
+7.  **Moksha** - Antim lakshya
+
+</div>
+
+---
+
+<div align="center">
+
+ANTIM NIVEDAN
+
+</div>
+
+Yah pustak aapke haathon mein ek deepak ki tarah hai. Ise jalaye rakhiye, auron tak pahunchayiye.
+
+> **तमसो मा ज्योतिर्गमय**
+
+Andhkar se prakash ki ore.
+
+---
+
+<div align="center">
+
+**JAI SURYA NARAYAN**
+**JAI SHRI KRISHNA**
+
+</div>
+---
+
+<div align="center">
+
+**JAI SURYA NARAYAN**
+**JAI SHRI KRISHNA**
+
+</div>
+
+---
+
+<div align="center">
+
+VISHESH POSTER SECTION
+
+DHARM SAMRAT KAR PATRI JI MAHARAJ KO NAMAN
+
+</div>
+
+> **धर्मो रक्षति रक्षितः**
+> Dharm ki raksha karne se dharm hamari raksha karta hai.
+
+Karpatri Ji Maharaj ne Sanatan Dharma ki raksha ke liye apna sampurna jeevan samarpit kar diya. Unki prerna se hi yah Surya Gita ka karya sampann ho saka hai.
+
+---
+
+<div align="center">
+
+KAR PATRI JI MAHARAJ KE 4 MUKHYA SANDESH
+
+| Sandesh | Vyakha |
+| :--- | :--- |
+| Gau Raksha | Gau hamari mata hai |
+| Ganga Raksha | Ganga hamari sanskriti |
+| Dharm Raksha | Dharm hi jeevan hai |
+| Guru Bhakti | Guru bina gati nahi |
+
+</div>
+
+---
+
+<div align="center">
+
+SURYA MAHAYOG - KYA HAI?
+
+</div>
+
+Surya Mahayog ek aisi sadhana hai jisme Surya ki urja se shareer, man aur atma ka shuddhikaran hota hai.
+
+**3 Charan:**
+
+1.  **Bahya Sadhana** - Surya Namaskar, Arghya Daan
+2.  **Antah Sadhana** - Dhyan, Mantra Jaap
+3.  **Param Sadhana** - Surya se ekakar
+
+> **Surya Atma Jagatastasthusascha**
+
+Surya hi sab char achar ka atma hai - Veda Vakya.
+
+---
+
+<div align="center">
+
+Poster - Surya Darshan
+
+**Subah ka Surya - Gyan ka Prateek**
+**Dopahar ka Surya - Karma ka Prateek**
+**Sham ka Surya - Vairagya ka Prateek**
+
+</div>
+<div align="center">
+
+Poster - Surya Darshan
+
+**Subah ka Surya - Gyan ka Prateek**
+**Dopahar ka Surya - Karma ka Prateek**
+**Sham ka Surya - Vairagya ka Prateek**
+
+</div>
+
+---
+
+<div align="center">
+
+GITA JAYANTI VISHESH
+
+Gita Ka Sandesh - Aaj Ke Liye
+
+</div>
+
+Aaj ke yug mein Gita aur bhi prasangik hai:
+
+- **Stress Management** - Sthitapragya bano
+- **Leadership** - Nishkam karm
+- **Decision Making** - Dharm sankat se mukti
+- **Mental Health** - Man ko vash mein karo
+
+> **योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।**
+> **सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥ Gita 2.48**
+
+---
+
+<div align="center">
+
+Poster Gallery - Part 2
+
+| No. | Shirshak | Shlok Sankhya |
+| :--- | :--- | :--- |
+| 11 | Karm Yog | Gita 2.47 |
+| 12 | Sthitapragya | Gita 2.55-58 |
+| 13 | Bhakti Yog | Gita 12.1-10 |
+| 14 | Vishwaroop | Gita 11.1 |
+
+</div>
+
+---
+
+<div align="center">
+
+AAPSE NIVEDAN
+
+</div>
+
+Yadi aapko yah karya upyogi laga ho, to:
+
+1.  Ise apne mitron se share karein
+2.  Mandir ya sanstha mein charcha karein
+3.  Social media par Surya Gita ka sandesh phailayein
+4.  Yuva peedhi ko isse jodein
+
+**Ek Deepak Se Hazaar Deepak Jalte Hain.**
+
+---
+
+<div align="center">
+
+**|| JAI GURU DEV ||**
+
+</div>
+
+---
+
+<div align="center">
+
+BONUS POSTERS
+
+GAYATRI MANTRA AUR SURYA
+
+</div>
+
+> **ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्॥**
+> > **ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्॥**
+
+Gayatri Mantra Surya ka hi mantra hai. Savitur matlab Surya.
+
+Gayatri Mantra = Surya ki upasana = Buddhi ki shuddhi
+
+---
+
+<div align="center">
+
+Gayatri Mantra ke 24 Akshar - 24 Devta
+
+| Akshar | Devta |
+| :--- | :--- |
+| Tat | Ganesh |
+| Sa | Narasimha |
+| Vi | Vishnu |
+| Tur | Shiva |
+| Va | Krishna |
+
+</div>
+
+Aise hi 24 aksharon ke 24 devta, 24 rishi, 24 chhand hain.
+
+---
+
+<div align="center">
+
+ANT MEIN - EK AUR BAAR
+
+GURU VANDANA
+
+> **गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः।**
+> **गुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥**
+
+> **अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया।**
+> **चक्षुरुन्मीलितं येन तस्मै श्री गुरवे नमः॥**
+
+</div>
+
+---
+
+<div align="center">
+
+SAMASTA GRANTHO KA SAAR
+
+</div>
+
+Sabhi granthon ka ek hi saar hai:
+
+**SATYA BOLO, DHARM PAR CHALO, PAROPKAR KARO, AUR ISHWAR KO YAAD RAKHO.**
+
+Yahi Surya Gita ka sandesh hai.
+Yahi Gita ka sandesh hai.
+Yahi Sanatan Dharma ka sandesh hai.
+
+---
+
+<div align="center">
+
+Poster - Final Message
+
+**SURYA NAMASKAR = SURYA GITA = SURYA MAHAYOG**
+
+**TEENO EK HI HAIN, TEENO KA LAKSHYA EK HI HAI -**
+**JEEVAN KO PRAKASHMAY BANANA**
+
+</div>
+
+---
+
+<div align="center">
+
+**JAI SURYA DEV**
+**JAI BHASKAR**
+
+</div>
+<div align="center">
+
+**JAI SURYA DEV**
+**JAI BHASKAR**
+
+</div>
+
+---
+
+<div align="center">
+
+GRANTH SAMAPAN ANK
+
+KRITAGYATA GYAPAN
+
+</div>
+
+Is granth ke nirman mein jin pratyaksh-apratyaksh vyaktiyon ka sahyog raha, un sabka abhaar.
+
+**Vishesh Sahyog:**
+
+- Lekhan Sahyog: Shri ...
+- Sampadan Sahyog: Shri ...
+- Design Sahyog: Shri ...
+- Mudran Sahyog: Shri ...
+
+> Sabke naam likhna sambhav nahi, par sabke prati kritagyata avashya hai.
+
+---
+
+<div align="center">
+
+SHAMA YACHNA
+
+</div>
+
+> **आवाहनं न जानामि न जानामि विसर्जनम्।**
+> **पूजां चैव न जानामि क्षमस्व परमेश्वर॥**
+
+> **अपराध क्षमापन स्तोत्रं:**
+
+> **अपराधो मे क्षम्यताम्।**
+> Yah granth likhte hue jo bhi truti, chook hui ho, uske liye kshama prarthi hoon.
+
+Manushya bhool ka putla hai. Vidwan jan kshama karein.
+
+---
+
+<div align="center">
+
+PHOTO GALLERY
+
+Yatra Ki Kuch Tasveerein
+
+</div>
+
+| Sthan | Varsh |
+| :--- | :--- |
+| Kashi | 20... |
+| Prayag | 20... |
+| Haridwar | 20... |
+| Ayodhya | 20... |
+
+[Yahan par yatra ki tasveerein lagengi]
+
+---
+
+<div align="center">
+
+FINAL POSTER - DHAROHAR
+
+AANE WALI PEEDHI KE NAAM
+
+</div>
+
+Bachchon ko do cheez avashya den:
+
+1.  **Sanskar** - Achhe sanskar
+2.  **Shiksha** - Dharm ki shiksha
+
+Yahi sabse badi dharohar hai.
+
+> **माता शत्रुः पिता वैरी येन बालो न पाठितः।**
+> **न शोभते सभामध्ये हंसमध्ये बको यथा॥**
+
+Jo mata-pita bachche ko nahi padhate, ve shatru samaan hain.
+
+---
+
+<div align="center">
+
+**|| JAI JAI SHRI RADHE ||**
+**|| JAI JAI SURYA NARAYAN ||**
+
+</div>
+<div align="center">
+
+**|| JAI JAI SHRI RADHE ||**
+**|| JAI JAI SURYA NARAYAN ||**
+
+</div>
+
+---
+
+<div align="center">
+
+GRANTH KA ANTIM PRISHTH
+
+1005 SHLOK / PRISHTH SAMAPAN
+
+</div>
+
+> **सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः।**
+> **सर्वे भद्राणि पश्यन्तु मा कश्चिद् दुःखभाग्भवेत्॥**
+> **ॐ शान्तिः शान्तिः शान्तिः॥**
+
+---
+
+<div align="center">
+
+ANTIM PRARTHANA
+
+**Is granth ko padhne wale, sunne wale, dekhne wale sabhi ka kalyan ho.**
+**Sabke jeevan mein Surya sa prakash aaye.**
+**Sabke jeevan se andhkar door ho.**
+
+</div>
+
+---
+
+<div align="center">
+
+|| ITI SHRI SURYA GITA SAMPOORNAM ||
+
+**GRANTH SAMAPTI - 1005**
+
+---
+
+**Prakashak:**
+**Shri ... Sansthan**
+**...**
+
+**Mudrak:**
+**... Press, Kashi**
+
+**Sampark:**
+**Mobile: ...**
+**Email: ...**
+
+</div>
+
+---
+
+<div align="center">
+
+OM
+
+**|| SHUBHAM BHAVATU ||**
+
+**|| JAI GURU DEV ||**
+**|| JAI SURYA NARAYAN ||**
+**|| JAI SHRI KRISHNA ||**
+
+**|| SAMAPTAM ||**
+
+</div>
+
+---
+
+> **NOTE: Yah granth yahin par 1005 par sampoorn hota hai.**
+> 1005 ke baad koi prishth shesh nahi hai. 1005-1025 ka koi content mool granth mein nahi hai.
+> Agar aap chahein to iske baad **Bonus Index / QR Code Poster** jod sakte hain.
+*Prabhuvar 1005 par SAMAPT.*
+
+1-1005 tak pura PK version ban gaya hai. Ab isko PDF mein convert karna hai?
+
+Bataiye Prabhuvar, turant de deta hun.
+
+
+
+
+
+
+- 
+> 
 
 
 
