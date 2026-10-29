@@ -127,6 +127,7 @@ Banner](https://img.shields.io/badge/SURYA%20GITA-GITA%20TATTVA%20GYAN-B00020?st
 ![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-SHRADDHA%20AUR%20VIVEK-B00020?style=for-the-badge)
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
 
+
 # 🔴 SURYAMAHAYOGIJI --- SURYA GITA 🔴
 
 ### Gita Tattva Gyan • Guru Parampara • Adhyatma • Paropkar
@@ -210,8 +211,8 @@ aur samvad bhi kiya ja sakta hai.
 > **Kripya Surya ko seedhe na dekhein.** Dharmik shraddha ya vyaktigat
 > anubhav aankhon ki suraksha ke niyam ko badal nahin sakte.
 > Surya-upasana ke liye bina Surya ko seedhe dekhe
-> prarthana, mantra, dhyan, ya surakshit
-> paramparik vidhi apna sakte hain. isiiliye
+> "prarthana, mantra, dhyan, ya surakshit
+> paramparik vidhi" apna sakte hain. isiiliye
 > Band aankhon se Surya dekho tab tak jab tak ki Ramkrishna Paramhans jaise Guru na mile. Mantra lo, Third Eye kholo.</h2>
 > 
 
