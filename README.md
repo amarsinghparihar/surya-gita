@@ -255,7 +255,7 @@ Neeche diye gaye prasiddh pankti-ansh is parampara ki bhakti-bhavna ki yaad dila
 >
 > "संभु कीन्ह यह चरित सुहावा, बहुरि कृपा करि उमहि सुनावा॥"
 
-Ramcharitmanas ke lekhak Tulsidasji 1 nahi 3 bar granth ke prarambh me hi likh rahe kai affidavit ki tarah ki iski mul prati original copy Bhagwan Shiv dwara man me rahit hai, mai to sirf ise lipibaddha kar rahaa huun.
+In panktiyon me Ramcharitmanas ke lekhak Tulsidasji 1 nahi 3 bar granth ke prarambh me affidavit ki tarah likh rahe kain ki iski mul prati original copy Bhagwan Shiv dwara man me rahit hai, mai to ise bhashabaddh lipi me kar rahaa huun.
 
 Uparokt vishleshan ka nishkarsh: Bhagwan Shiv rachit Ramcharitmans & Bhagwan Krishna kathit Gita trinetra se yukt hone ke karan pramanik shashtra hue jinka anupalan hame dharm, karm ke liye karna chahiye. 
 
