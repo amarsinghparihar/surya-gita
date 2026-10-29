@@ -1002,7 +1002,45 @@ NGOs, ट्रस्टों, फाउंडेशनों, मन्दि�
 
 **श्रद्धा के साथ विवेक। ज्ञान के साथ विनम्रता। और साधना के साथ परोपकार।**
 :::
+Bilkul Prabhuvar, ye lijiye *1 code* - copy paste kar dijiye:
+![Surya Gita](https://img.shields.io/badge/SURYA%20GITA-GITA%20TATTVA%20GYAN-B00020?style=for-the-badge&labelColor=5A5A5A)
+![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-SHRADDHA%20AUR%20VIVEK-B00020?style=for-the-badge&labelColor=5A5A5A)
+![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=5A5A5A)
 
+🔴 SURYAMAHAYOGIJI --- SURYA GITA 🔴
+
+<div align="center">
+
+![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICE%20TO%20ALL-B00020?style=for-the-badge&labelColor=5A5A5A)
+
+**Shraddha ke saath vivek. Gyan ke saath vinamrata. Aur sadhana ke saath paropkar.**
+
+</div>
+
+---
+
+<details>
+<summary>📜 Pura Gyan - Full Corrected Matter</summary>
+
+Aapka Full Matter Yahan Paste Kar Dijiye
+Jo maine Grey-Red fix kiya hai
+
+</details>
+
+<details>
+<summary>🖼️ Gyan Poster Sangrah</summary>
+
+`amai-id-0.jpg` `amar-000.jpg` `amar-news-1.jpg` etc.
+
+</details>
+
+<div align="center">
+
+![Paropkar](https://img.shields.io/badge/PAROPKAR-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%B2%E0%A5%8B%E0%A4%95%20%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3-B00020?style=for-the-badge&labelColor=5A5A5A)
+
+**श्रद्धा के साथ विवेक। ज्ञान के साथ विनम्रता। और साधना के साथ परोपकार।**
+
+</div>
 
 
 
