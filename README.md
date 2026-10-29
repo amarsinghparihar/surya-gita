@@ -211,6 +211,8 @@ aur samvad bhi kiya ja sakta hai.
 > anubhav aankhon ki suraksha ke niyam ko badal nahin sakte.
 > Surya-upasana ke liye prarthana, mantra, dhyan, ya surakshit
 > paramparik vidhi apna sakte hain---bina Surya ko seedhe dekhe.
+> Band aankhon se Surya dekho tab tak jab tak ki Ramkrishna Paramhans jaise Guru na mile. Mantra lo, Third Eye kholo.</h2>
+> 
 
 Suryamahayogiji apne anubhavon ko "sahaj bhav" aur "satwik trinetra"
 jaise adhyatmik shabdon se vyakt karte hain. In shabdon ko unke
