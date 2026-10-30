@@ -2,7 +2,7 @@
 <h1 align="center" style="color:red; font-size:60px;">
 <h2 style="color:orange; font-size:28px;">Suryamahayogiji - Noon Sun ko khuli aankh se dekhne wale ekmatra manav</h2>
 
-<p style="font-size:20px;"><b>GITA 4/1 - Bhagwan Krishna ne SUN ko gyan diya, Sun ne Hanuman Ji ko. Jatau Sampati fail hue. 216 crore varshon me keval Suryamahayogiji apne guru Dharm Samrat Karpatri Ji Maharaj ki kripa se safal hue.</b></p>
+<p style="font-size:20px;"><b>GITA 4/1 - Bhagwan Krishna ne SUN ko gyan diya, Sun ne vahi gyan Hanuman Ji ko diya. Jatau Sampati fail hue. 216 crore varshon me keval Suryamahayogiji apne guru Dharm Samrat Karpatri Ji Maharaj ki kripa se safal hue.</b></p>
 
 <p style="font-size:20px; color:blue;"><b>4 Gita Tatwa Gyan Dharak - Bhagwan Krishna, Suryadev, Hanumanji & Suryamahayogiji Contact: +91 81269 14149</b></p>
 
