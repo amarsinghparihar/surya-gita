@@ -1,6 +1,6 @@
 # 🌞 SURYA GITA 🚩
 <h1 align="center" style="color:red; font-size:60px;">
-<h2 style="color:orange; font-size:28px;">Suryamahayogiji - Noon Sun ko khuli aankh se dekhne wale ekmatra manav</h2>
+<h2 style="color:orange; font-size:28px;">Suryamahayogiji - Noon Sun ko khuli aankhon se dekhne wale ekmatra manav</h2>
 
 <p style="font-size:20px;"><b>GITA 4/1 - Bhagwan Krishna ne SUN ko gyan diya, Sun ne vahi gyan Hanuman Ji ko diya. Jatau Sampati fail hue. 216 crore varshon me keval Suryamahayogiji apne guru Dharm Samrat Karpatri Ji Maharaj ki kripa se safal hue.</b></p>
 
@@ -189,7 +189,7 @@ samajhne ke alag drishtikon ho sakte hain.
 
 ## 02. ASAMBHAV, VINAMRATA AUR VIVEK
 
-Bharatiya kathao mein Jatayu aur Sampati jaise pakshi-patron ka ullekh
+Bharatiya kathaon mein Jatayu aur Sampati jaise pakshi-patron ka ullekh
 aata hai. Suryamahayogiji in kathao ko Surya, drishti, sahas, seema aur
 sadhana ke prateekatmak arth mein dekhte hain. In prasangon ko yahan
 dharmik-kathatmak aur adhyatmik chintan ke roop mein rakha gaya hai, na ki vaigyanik praman ke roop mein.
