@@ -6,7 +6,7 @@
 
 <p style="font-size:20px; color:blue;"><b>4 Gita Tatwa Gyan Dharak - Bhagwan Krishna, Suryadev, Hanumanji & Suryamahayogiji Contact: +91 81269 14149</b></p>
 
-<h2 style="color:purple; background-color:yellow; padding:10px; border:2px solid orange;">Sandesh: Band aankhon se Surya dekho tab tak jab tak ki Ramkrishna Paramhans jaise Guru na mile. Mantra lo, Third Eye kholo.</h2>
+<h2 style="color:purple; background-color:yellow; padding:10px; border:2px solid orange;">Sandesh: Band aankhon se Surya dekho tab tak jab tak ki Tatwadarshi Gyani Guru na milen. Mantra lo, Satwik Third Eye kholo.</h2>
 
 <h1 style="color:darkred; text-align:center;">सूर्यमहायोगी जी</h1>
 
