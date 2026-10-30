@@ -190,7 +190,7 @@ samajhne ke alag drishtikon ho sakte hain.
 ## 02. ASAMBHAV, VINAMRATA AUR VIVEK
 
 Bharatiya kathaon mein Jatayu aur Sampati jaise pakshi-patron ka ullekh
-aata hai. Suryamahayogiji in kathao ko Surya, drishti, sahas, seema aur
+aata hai. Suryamahayogiji in kathaon ko Surya, drishti, sahas, seema aur
 sadhana ke prateekatmak arth mein dekhte hain. In prasangon ko yahan
 dharmik-kathatmak aur adhyatmik chintan ke roop mein rakha gaya hai, na ki vaigyanik praman ke roop mein.
 
