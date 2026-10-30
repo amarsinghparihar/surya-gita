@@ -222,7 +222,7 @@ kisi ko Surya-darshan ka prayog karne ka nirdesh.
 
 ## 04. GURU-VISHLESHAN --- KRISHNA, SHIVA AUR SADHANA
 
-Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan adhyatmik gyan, yog aur anugrah se joda jata hai. Bhagwan Krishna (Krishnam vande jagatgurum)& Bhagwan Shiv (tumh tribhuvan guru ved bakhana), Gita, puran, sant-vani aur Ramcharitmanas jaise granth alag-alag drishtikon se bhakti, gyan, karm aur guru-kripa par prakash dalte hain.
+Bharatiya parampara mein Bhagwan Krishna aur Bhagwan Shiva dono ko gahan adhyatmik gyan, yog aur anugrah se joda jata hai. Bhagwan Krishna (Krishnam vande jagatgurum) & Bhagwan Shiv (tumh tribhuvan guru ved bakhana), Gita, puran, sant-vani aur Ramcharitmanas jaise granth alag-alag drishtikon se bhakti, gyan, karm aur guru-kripa par prakash dalte hain.
 
 Suryamahayogiji apni adhyatmik samajh mein Krishna, Surya, Hanumanji aur
 apne guru **Dharm Samrat Karpatri Ji Maharaj** ki parampara ko mahatva
