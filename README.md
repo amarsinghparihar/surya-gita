@@ -288,7 +288,7 @@ Yah nivedan kisi prakar ka dabav, sahyog ya arthik sahayata ki maang nahin hai. 
 - Former Director, DGFASLI, Ministry of Labour, Government of India\
 - Spiritual interests: Bhagavad Gita, Surya-parampara, guru-kripa,
 sadhana and paropkar\
-- Apne adhyatmik anubhavon aur vicharon ko ve vyaktigat anubhav aur parampar ki vyakhya ke roop mein prastut karte hain.
+- Apne adhyatmik anubhavon aur vicharon ko ve vyaktigat anubhav aur parampara ki vyakhya ke roop mein prastut karte hain.
 
 ### Website and Contact
 
