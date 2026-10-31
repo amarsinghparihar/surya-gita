@@ -318,6 +318,11 @@ capitalization ko jaisa hai vaisa hi rakhein.
 
 **SHRADDHA ke saath VIVEK. GYAN ke saath VINAMRATA aur SAADHANAA ke saath PAROPKAR**
 
+Banner](https://img.shields.io/badge/SURYA%20GITA-GITA%20TATTVA%20GYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
+![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-SHRADDHA%20AUR%20VIVEK-B00020?style=for-the-badge)
+![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
+
+
 ------------------------------------------------------------------------
 
 
