@@ -313,7 +313,7 @@ Files ko repository mein upload karte samay inke exact naam aur
 capitalization ko jaisa hai vaisa hi rakhein.
 
 ------------------------------------------------------------------------
-::: {align="center"}
+::: 
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICE%20TO%20ALL-B00020?style=for-the-badge&labelColor=FFFFFF)
 
 **Shraddha ke saath vivek. Gyan ke saath vinamrata. Aur sadhana ke saath
@@ -567,6 +567,6 @@ Organiser समाचार-कतरनें:
 organiser-news-1.jpg · organiser-news-2.jpg
 
 
-☀️ सूर्य गीता ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️   ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  🔴 🔴 🔴 🔴 🔴 🔴
+☀️ सूर्य गीता ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  ☀️   ☀️  ☀️  ☀️  ☀️  ☀️  ☀️  
 
 • श्रद्धा • ज्ञान • साधना • परोपकार • श्रद्धा के साथ विवेक • ज्ञान के साथ विनम्रता • साधना के साथ परोपकार •
