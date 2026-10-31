@@ -320,7 +320,7 @@ capitalization ko jaisa hai vaisa hi rakhein.
 
 ![Surya Gita --- Red
 Banner](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-B00020?style=for-the-badge&labelColor=FFFFFF)
-![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-SHRADDHA%20AUR%20VIVEK-B00020?style=for-the-badge)
+![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA VINAY%20AUR%20VIVEK-B00020?style=for-the-badge)
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
 
 ------------------------------------------------------------------------
