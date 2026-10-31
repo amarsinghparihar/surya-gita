@@ -313,18 +313,17 @@ Files ko repository mein upload karte samay inke exact naam aur
 capitalization ko jaisa hai vaisa hi rakhein.
 
 ------------------------------------------------------------------------
-::: {align="center"}
+ {align="center"}
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICE%20TO%20ALL-B00020?style=for-the-badge&labelColor=FFFFFF)
 
 **SHRADDHA ke saath VIVEK. GYAN ke saath VINAMRATA aur SAADHANAA ke saath PAROPKAR**
-:::
 
 ------------------------------------------------------------------------
 
 
-☀️ सूर्य गीता ☀️     श्री सूर्य महायोगी जी का आध्यात्मिक परिचय एवं संदेश
+☀️ सूर्य गीता ☀️   -    श्री सूर्य महायोगी जी का आध्यात्मिक परिचय एवं संदेश
 
-श्रद्धा • ज्ञान • साधना • परोपकार  <strong> (श्रद्धा के साथ विवेक, <br> ज्ञान के साथ विनम्रता <br>और साधना के साथ परोपकार) </strong></p><hr>
+श्रद्धा • ज्ञान • साधना • परोपकार   (श्रद्धा के साथ विवेक, ज्ञान के साथ विनम्रता और साधना के साथ परोपकार) </strong></p><hr>
 
 
 
