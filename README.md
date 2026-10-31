@@ -320,10 +320,6 @@ capitalization ko jaisa hai vaisa hi rakhein.
 
 ![Surya Gita --- Red
 Banner](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-B00020?style=for-the-badge&labelColor=FFFFFF)
-![Parampara](https://img.shields.io/badge/VIDYA VIVEK%20AUR VINAY-SADHNA%20AUR%20PARHIT-B00020?style=for-the-badge)
-![Paropkar](https://img.shields.io/badge/SARVARTHSIDDHI-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
-
-
 ------------------------------------------------------------------------
 
 
