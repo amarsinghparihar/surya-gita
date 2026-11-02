@@ -159,10 +159,7 @@ Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B0002
 ![BLUE BLUE](https://img.shields.io/badge/BLUE%20BLUE%20%20%20%20%20-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20GREY%20%20%20%20%20-616161?style=for-the-badge) ![BLUE BLUE](https://img.shields.io/badge/BLUE%20BLUE%20%20%20%20%20-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20GREY%20%20%20%20%20-616161?style=for-the-badge) ![BLUE BLUE](https://img.shields.io/badge/BLUE%20BLUE%20%20%20%20%20-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20GREY%20%20%20%20%20-616161?style=for-the-badge) ![BLUE BLUE](https://img.shields.io/badge/BLUE%20BLUE%20%20%20%20%20-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20GREY%20%20%20%20%20-616161?style=for-the-badge)
 
 
-☀️ SURYA CHAUPAI
-
-> उदयाचल से भानु उजागर।
-> तिमिर नाश करे जग उजाग
+☀️ SURYA CHAUPAYI
 
 
 
