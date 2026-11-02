@@ -37,7 +37,7 @@ Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B0002
 
 
 
-[[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-2E8B57?style=flat-square)
+![[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-2E8B57?style=flat-square)
 ![GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-2E8B57?style=flat-square)
 ![PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-2E8B57?style=flat-square)
 ![PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-2E8B57?style=flat-square)
