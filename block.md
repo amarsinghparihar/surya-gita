@@ -39,12 +39,6 @@ Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B0002
 
 
 
-[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-6A0DAD?style=plastic)
-[GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-6A0DAD?style=plastic)
-[PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-6A0DAD?style=plastic)
-[PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-6A0DAD?style=plastic)
-[PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-6A0DAD?style=plastic)
-[PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-6A0DAD?style=plastic)
 
 [SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-DAA520?style=for-the-badge&labelColor=000000)
 [GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-DAA520?style=for-the-badge&labelColor=000000)
@@ -52,7 +46,6 @@ Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B0002
 [PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-DAA520?style=for-the-badge&labelColor=000000)
 [PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-DAA520?style=for-the-badge&labelColor=000000)
 [PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-DAA520?style=for-the-badge&labelColor=000000)
-
 
 [SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-008080?style=flat&labelColor=333333)
 [GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-333333?style=flat&labelColor=008080)
