@@ -1,7 +1,7 @@
 ![PARAM DHARM --- Red
-Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B00020?style=for-the-badge&labelColor=FFFFFF)
+Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B00020?style=for-the-badge&labelColor=555555)
 ![Parampara](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-B00020?style=for-the-badge)
-![Paropkar](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-B00020?style=for-the-badge&labelColor=FFFFFF)
+![Paropkar](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-B00020?style=for-the-badge&labelColor=555555)
 
 
 ![SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-B00020?style=for-the-badge&labelColor=FFFFFF)
