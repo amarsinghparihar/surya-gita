@@ -565,3 +565,10 @@ organiser-news-1.jpg · organiser-news-2.jpg
 Banner](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-B00020?style=for-the-badge&labelColor=FFFFFF)
 ![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-B00020?style=for-the-badge)
 ![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
+
+![PARAM DHARM --- Red
+Banner](https://img.shields.io/badge/PARAM%20DHARM-SRUTI%20VIDIT%20AHINSA-B00020?style=for-the-badge&labelColor=FFFFFF)
+![Parampara](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-B00020?style=for-the-badge)
+![Paropkar](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-B00020?style=for-the-badge&labelColor=FFFFFF)
+
+
