@@ -313,7 +313,7 @@ Files ko repository mein upload karte samay inke exact naam aur
 capitalization ko jaisa hai vaisa hi rakhein.
 
 ------------------------------------------------------------------------
-![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICES%20TO%20ALL%20SARVE%20BHAVANTU%20SUKHINAH%20SARVE%20SANTU%20NIRAMAYAAH-B00020?style=for-the-badge&labelColor=FFFFFF)
+![Paropkar](https://img.shields.io/badge/PAROPKAR-SERVICES%20TO%20ALL%20SARVE%20BHAVANTU%20SUKHINAH%20SARVE%20SANTU%20NIRAMYAH-B00020?style=for-the-badge&labelColor=FFFFFF)
 
 
 ![Surya Gita --- Red
