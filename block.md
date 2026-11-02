@@ -178,3 +178,40 @@ Aapne mera wala pura pravachan bhi `block.md` me paste kar diya, isliye beech me
 ![PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-333333?style=flat&labelColor=008080)
 ![PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-008080?style=flat&labelColor=333333)
 ![PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-333333?style=flat&labelColor=008080)
+
+[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-0B3D91?style=for-the-badge)
+[GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-0B3D91?style=for-the-badge)
+[PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-0B3D91?style=for-the-badge)
+[PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-0B3D91?style=for-the-badge)
+[PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-0B3D91?style=for-the-badge)
+[PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-0B3D91?style=for-the-badge)
+
+[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-1E90FF?style=flat)
+[GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-1E90FF?style=flat)
+[PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-1E90FF?style=flat)
+[PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-1E90FF?style=flat)
+[PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-1E90FF?style=flat)
+[PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-1E90FF?style=flat)
+
+[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-00008B?style=plastic)
+[GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-00008B?style=plastic)
+[PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-00008B?style=plastic)
+[PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-00008B?style=plastic)
+[PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-00008B?style=plastic)
+[PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-00008B?style=plastic)
+
+[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-4169E1?style=flat-square)
+[GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-4169E1?style=flat-square)
+[PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-4169E1?style=flat-square)
+[PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-4169E1?style=flat-square)
+[PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-4169E1?style=flat-square)
+[PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-4169E1?style=flat-square)
+
+[SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-87CEEB?style=for-the-badge&labelColor=0B3D91)
+[GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-0B3D91?style=for-the-badge&labelColor=87CEEB)
+[PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-87CEEB?style=for-the-badge&labelColor=0B3D91)
+[PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-0B3D91?style=for-the-badge&labelColor=87CEEB)
+[PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-87CEEB?style=for-the-badge&labelColor=0B3D91)
+[PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-0B3D91?style=for-the-badge&labelColor=87CEEB)
+
+
