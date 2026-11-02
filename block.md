@@ -141,9 +141,6 @@ Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B0002
 
 ![ORANGE](https://img.shields.io/badge/ORANGE-FF9100?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![ORANGE](https://img.shields.io/badge/ORANGE-FF9100?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![ORANGE](https://img.shields.io/badge/ORANGE-FF9100?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF)
 
-Samajh gaya Prabhuvar, bilkul pravachan nahi.
-
-Ye lijiye sahi wala, `!` ke saath - ab neeli line nahi aayegi:
 ![RED](https://img.shields.io/badge/RED-FF1744?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![RED](https://img.shields.io/badge/RED-FF1744?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![RED](https://img.shields.io/badge/RED-FF1744?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF)
 
 ![BLUE](https://img.shields.io/badge/BLUE-2979FF?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![BLUE](https://img.shields.io/badge/BLUE-2979FF?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![BLUE](https://img.shields.io/badge/BLUE-2979FF?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF)
@@ -155,6 +152,15 @@ Ye lijiye sahi wala, `!` ke saath - ab neeli line nahi aayegi:
 ![ORANGE](https://img.shields.io/badge/ORANGE-FF9100?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![ORANGE](https://img.shields.io/badge/ORANGE-FF9100?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF) ![ORANGE](https://img.shields.io/badge/ORANGE-FF9100?style=for-the-badge&labelColor=000000) ![GREY](https://img.shields.io/badge/GREY-616161?style=for-the-badge&labelColor=FFFFFF)
 
 
+Bilkul Prabhuvar, ye final - *bina pravachan, 2-2 inch, `!` ke saath:*
+![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
 
+![BLUE BLUE](https://img.shields.io/badge/BLUE%20%20BLUE-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![BLUE BLUE](https://img.shields.io/badge/BLUE%20%20BLUE-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![BLUE BLUE](https://img.shields.io/badge/BLUE%20%20BLUE-2979FF?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
+
+![GREEN GREEN](https://img.shields.io/badge/GREEN%20%20GREEN-00C853?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![GREEN GREEN](https://img.shields.io/badge/GREEN%20%20GREEN-00C853?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![GREEN GREEN](https://img.shields.io/badge/GREEN%20%20GREEN-00C853?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
+
+![YELLOW YELLOW](https://img.shields.io/badge/YELLOW%20%20YELLOW-FFD600?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![YELLOW YELLOW](https://img.shields.io/badge/YELLOW%20%20YELLOW-FFD600?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![YELLOW YELLOW](https://img.shields.io/badge/YELLOW%20%20YELLOW-FFD600?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
+
+![ORANGE ORANGE](https://img.shields.io/badge/ORANGE%20%20ORANGE-FF9100?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![ORANGE ORANGE](https://img.shields.io/badge/ORANGE%20%20ORANGE-FF9100?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![ORANGE ORANGE](https://img.shields.io/badge/ORANGE%20%20ORANGE-FF9100?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
 
 
