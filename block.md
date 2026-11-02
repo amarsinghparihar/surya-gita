@@ -66,3 +66,27 @@ Banner](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-B0002
 [PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-333333?style=flat&labelColor=008080)
 [PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-008080?style=flat&labelColor=333333)
 [PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-333333?style=flat&labelColor=008080)
+
+
+Ha Prabhuvar pakad liya gadbad!
+
+Woh neeche wali 4 line me `!` nahi laga tha, isliye neele link ban gaye!
+
+*Gadbad wala tha ye:*
+`[SURYA GITA](https://...)` - ye sirf neela link banta hai
+
+*Sahi karna hai ye:*
+`[SURYA GITA](https://...)` - aage `!` lagao to block banega
+
+*Lo 4 line ka sahi wala - copy karke usi jagah replace kar do:*
+![SURYA GITA](https://img.shields.io/badge/SURYA%20GITA-SHRADDHA%20VISHVAS%20BHAKTI-2E8B57?style=flat-square)
+![GURU PARAMPARA](https://img.shields.io/badge/GURU%20PARAMPARA-VIDYA%20VINAY%20VIVEK-2E8B57?style=flat-square)
+![PAROPKAR](https://img.shields.io/badge/PAROPKAR-LOK%20KALYAN-2E8B57?style=flat-square)
+![PARAM DHARM](https://img.shields.io/badge/PARAM%20DHARM-SHRUTI%20VIDIT%20AHINSA-2E8B57?style=flat-square)
+![PARHIT SARIS](https://img.shields.io/badge/PARHIT%20SARIS-DHARM%20NAHI%20BHAYI-2E8B57?style=flat-square)
+![PARPIDA](https://img.shields.io/badge/PARPIDA-SAMA%20NAHIADHMAYI-2E8B57?style=flat-square)
+Bas har line ke shuru me `!` laga do - saare neele link turant hare block ban jayenge!
+
+
+
+
