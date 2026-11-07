@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SURYA GITA</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#fff;font-family:sans-serif}
+.top{background:#ffcc00;padding:14px 12px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10}
+.top b{font-size:24px}
+.top span{background:#000;color:#ffcc00;padding:6px 12px;border-radius:20px;font-size:14px}
+.run{background:red;color:white;padding:10px;font-weight:900;font-size:17px;white-space:nowrap;overflow:hidden}
+.run span{display:inline-block;padding-left:100%;animation:scroll 25s linear infinite}
+@keyframes scroll{to{transform:translateX(-100%)}}
+.intro{margin:12px;border:2px solid red;border-radius:12px;padding:16px;background:#fffbe6;font-size:17px;line-height:1.8;word-break:break-word}
+.intro h2{margin:0 0 8px 0;font-size:22px;text-align:center}
+.btnrow{display:flex;gap:10px;margin:10px 0}
+.btnrow button{flex:1;padding:12px;border:0;border-radius:8px;font-weight:900;font-size:16px;cursor:pointer}
+.b1{background:#ffcc00;color:#000}
+.b2{background:#000;color:#ffcc00}
+.b1.active,.b2.active{outline:3px solid red}
+#readmeText{white-space:pre-wrap;word-break:break-word}
+.sec{margin:18px 12px 6px 12px;font-size:20px;font-weight:900;background:#ffcc00;padding:10px;border-radius:8px;text-align:center}
+.feed{padding:0 10px 30px 10px;display:flex;flex-direction:column;gap:18px}
+.card{background:#fff;border:1px solid #eee;border-radius:12px;overflow:hidden}
+.card img{width:100%;height:auto;display:block;object-fit:contain;background:#f5f5f5;min-height:100px}
+.info{padding:10px;display:flex;gap:10px;align-items:flex-start}
+.logo{width:40px;height:40px;background:#ffcc00;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0}
+.info b{font-size:15px;line-height:1.4;display:block;word-break:break-all}
+.info span{font-size:14px;color:#555}
+.actions{display:flex;gap:18px;padding:0 10px 12px 60px;color:#333;font-size:15px;font-weight:700}
+#status{padding:12px;text-align:center;font-weight:700}
+</style>
+</head>
+<body>
+<div class="top"><b>☀️ SURYA GITA</b><span>SUBSCRIBE</span></div>
+<div class="run"><span>SURYA GITA | Shraddha - Gyan - Sadhna - Paropkar |</span></div>
+<div class="intro"><h2>SURYA GITA</h2>
+<div class="btnrow">
+<button id="btn1" class="b1 active" onclick="showPart(1)">PART 1 - HINGLISH</button>
+<button id="btn2" class="b2" onclick="showPart(2)">PART 2 - HINDI</button>
+</div>
+<div id="readmeText">README load ho raha hai...</div>
+<div id="readmeInfo" style="font-size:13px;color:#666;margin-top:10px;text-align:center"></div>
+</div>
+<div class="sec">TOTAL 156 POSTER</div>
+<div id="status">Posters load ho rahe hain...</div>
+<div id="all"></div>
+<script>
+var USER="amarsinghparihar";
+var REPO="surya-gita";
+var fullText="", part1="", part2="";
+function clean(t){
+  t=t.replace(/!\[[^\]]*\]\([^)]+\)/g,"");
+  t=t.replace(/\[[^\]]*\]\([^)]+\)/g,"");
+  t=t.replace(/https?:\/\/[^\s\)]+/g,"");
+  t=t.replace(/<[^>]+>/g,"");
+  t=t.replace(/\*\*/g,"").replace(/^### /gm,"").replace(/^## /gm,"").replace(/^# /gm,"");
+  t=t.replace(/\n{3,}/g,"\n\n");
+  return t.trim();
+}
+function showPart(n){
+  var el=document.getElementById("readmeText");
+  var b1=document.getElementById("btn1"), b2=document.getElementById("btn2");
+  if(n===1){ el.textContent=part1||fullText; b1.classList.add("active"); b2.classList.remove("active"); }
+  else { el.textContent=part2||fullText; b2.classList.add("active"); b1.classList.remove("active"); }
+}
+fetch("https://raw.githubusercontent.com/"+USER+"/"+REPO+"/main/README.md").then(function(r){return r.text()}).then(function(t){
+  fullText=clean(t);
+  document.getElementById("readmeInfo").textContent="Poora README load ho gaya - Total: "+fullText.length+" akshar";
+  var idx=fullText.toUpperCase().indexOf("PART II");
+  if(idx<0) idx=fullText.toUpperCase().indexOf("PART 2");
+  if(idx>0){ part1=fullText.slice(0,idx); part2=fullText.slice(idx); } else { part1=fullText; part2=fullText; }
+  showPart(1);
+}).catch(function(){ document.getElementById("readmeText").textContent="README load nahi hua."; });
+function makeCard(name, src){
+  var card=document.createElement("div"); card.className="card";
+  var img=document.createElement("img"); img.loading="lazy"; img.alt=name; img.src=src;
+  img.onerror=function(){ card.style.display="none"; };
+  var info=document.createElement("div"); info.className="info";
+  info.innerHTML='<div class="logo">☀️</div><div><b>'+name+'</b><span>SURYA GITA - 156 POSTER</span></div>';
+  var act=document.createElement("div"); act.className="actions"; act.textContent="👍 Like    💬 Comment    ↗️ Share";
+  card.appendChild(img); card.appendChild(info); card.appendChild(act);
+  return card;
+}
+function buildFromList(files){
+  var all=document.getElementById("all");
+  var feed=document.createElement("div"); feed.className="feed"; all.appendChild(feed);
+  document.getElementById("status").textContent="Total posters mile: "+files.length+" / 156 POSTER";
+  files.forEach(function(f){ feed.appendChild(makeCard(f.name, f.download_url)); });
+}
+function buildFromNames(){
+  var all=document.getElementById("all");
+  var feed=document.createElement("div"); feed.className="feed"; all.appendChild(feed);
+  document.getElementById("status").textContent="156 POSTER - Naam se load ho rahe hain";
+  var base="https://raw.githubusercontent.com/"+USER+"/"+REPO+"/main/";
+  for(var i=0;i<60;i++){ feed.appendChild(makeCard("amai-id-"+i+".jpg", base+"amai-id-"+i+".jpg")); }
+  for(var j=0;j<120;j++){ var n=("00"+j).slice(-3); feed.appendChild(makeCard("amar-"+n+".jpg", base+"amar-"+n+".jpg")); }
+  for(var k=1;k<=34;k++){ feed.appendChild(makeCard("amar-news-"+k+".jpg", base+"amar-news-"+k+".jpg")); }
+  feed.appendChild(makeCard("organiser-news-1.jpg", base+"organiser-news-1.jpg"));
+  feed.appendChild(makeCard("organiser-news-2.jpg", base+"organiser-news-2.jpg"));
+}
+fetch("https://api.github.com/repos/"+USER+"/"+REPO+"/contents/?per_page=1000").then(function(r){return r.json()}).then(function(list){
+  if(!list || !list.length || list.message){ buildFromNames(); return; }
+  var files=list.filter(function(f){return f.type==="file" && /\.(jpg|jpeg|png|webp|gif)$/i.test(f.name)}).sort(function(a,b){return a.name.localeCompare(b.name)});
+  if(files.length<10){ buildFromNames(); } else { buildFromList(files); }
+}).catch(function(){ buildFromNames(); });
+</script>
+</body>
+</html>
