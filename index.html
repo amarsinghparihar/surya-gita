@@ -24,7 +24,7 @@ j.sort((a,b)=>a.name.localeCompare(b.name,'en',{numeric:true}));
 let c=document.getElementById('g');
 j.forEach(f=>{
 let d=document.createElement('div');d.className='card';
-let im=document.createElement('img');im.src='./'+f.name;im.loading='lazy';
+let im=document.createElement('img');im.src='https://raw.githubusercontent.com/amarsinghparihar/surya-gita/main/  '+f.name;im.loading='lazy';
 let nm=document.createElement('div');nm.className='nm';nm.textContent=f.name;
 d.appendChild(im);d.appendChild(nm);c.appendChild(d);
 });
