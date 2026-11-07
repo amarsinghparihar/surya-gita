@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SURYA GITA</title>
+<style>
+body{margin:0;background:#fffbe6;text-align:center;font-family:Arial,sans-serif}
+.top{background:#8a0c06;color:white;padding:12px 8px;text-align:center;border-radius:12px;margin:10px}
+.gola{width:40px;height:40px;border-radius:50%;border:2px solid #ffcc80;overflow:hidden;background:#8a0c06;margin:0 auto}
+.gola img{width:100%;height:100%;object-fit:cover;object-position:center 100%;transform:scale(1.45);transform-origin:center 75%}
+.top h1{margin:8px 0 0;font-size:13px}
+.top p{margin:3px 0;color:#ffe6b3;font-size:11px}
+.top .white{color:white;font-weight:bold;font-size:11px}
+.readme{background:#fff;margin:10px;padding:15px;border-radius:10px;border:2px solid #ffb84d;text-align:left}
+.readme h2{color:#000;text-align:center;margin:0 0 10px}
+.readme h3{color:#e6a700;font-size:22px;line-height:1.4;margin:10px 0}
+.readme p{color:#000;font-size:17px;line-height:1.5;font-weight:bold}
+img{width:92%;margin:15px auto 4px;display:block;border-radius:10px;border:2px solid #ffb84d}
+.cap{background:#fff;padding:7px;margin:0 auto 18px;width:92%;border-radius:6px;font:bold 13px sans-serif;word-break:break-all;border:1px solid orange}
+#top{position:sticky;top:0;background:#fffbe6;padding:12px;font:bold 20px sans-serif;border-bottom:3px solid orange;z-index:10}
+</style>
+</head>
+<body>
+<div class="top">
+<div class="gola"><img src="logo.png?v=3" alt="suryamahayogiji"></div>
+<h1>suryamahayogiji</h1>
+<p>(surya tratak samadhi me)</p>
+<p class="white">WhatsApp : +91 8126914149</p>
+<p>amarsinghparihar.github.io/surya-gita/</p>
+</div>
+<div class="readme">
+<h2>🌞 SURYA GITA 🚩</h2>
+<h3>Suryamahayogiji - Noon Sun ko khuli aankhon se dekhne wale ekmatra manav</h3>
+<p>GITA 4/1 - Bhagwan Krishna ne SUN ko gyan diya, Sun ne vahi gyan Hanuman Ji ko diya. Jatau Sampati fail hue, 216 crore varshon me keval Suryamahayogiji ne Surya ko khuli aankhon se dekha.</p>
+<p>Jai Surya Narayan! Jai Kamakhya Maiya!</p>
+<p>- Suryamahayogiji</p>
+</div>
+<div id="top">SURYA GITA Total: <span id="t">0</span></div>
+<div id="g"></div>
+<script>
+fetch('https://api.github.com/repos/amarsinghparihar/surya-gita/contents?per_page=1000').then(r=>r.json()).then(d=>{
+let a=d.filter(f=>/\.(jpg|jpeg|png|webp)$/i.test(f.name)).sort((x,y)=>x.name.localeCompare(y.name));
+document.getElementById('t').innerText=a.length;
+let g=document.getElementById('g');
+a.forEach(f=>{
+let i=document.createElement('img'); i.loading='lazy'; i.src=encodeURI(f.name); i.onerror=()=>i.src=f.download_url;
+let c=document.createElement('div'); c.className='cap'; c.innerText=f.name;
+g.appendChild(i); g.appendChild(c);
+});
+});
+</script>
+</body>
+</html>
