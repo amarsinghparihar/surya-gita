@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SURYA GITA</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#fff;font-family:sans-serif}
+.top{background:#ffcc00;padding:14px 12px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10}
+.top b{font-size:24px}
+.top span{background:#000;color:#ffcc00;padding:6px 12px;border-radius:20px;font-size:14px}
+.run{background:red;color:white;padding:10px;font-weight:900;font-size:17px;white-space:nowrap;overflow:hidden}
+.run span{display:inline-block;padding-left:100%;animation:scroll 25s linear infinite}
+@keyframes scroll{to{transform:translateX(-100%)}}
+.intro{margin:12px;border:2px solid red;border-radius:12px;padding:16px;background:#fffbe6;font-size:16px;line-height:1.7;white-space:pre-wrap;word-break:break-word}
+.intro h2{margin:0 0 8px 0;font-size:22px;text-align:center}
+.sec{margin:18px 12px 6px 12px;font-size:20px;font-weight:900;background:#ffcc00;padding:10px;border-radius:8px;text-align:center}
+.feed{padding:0 10px 30px 10px;display:flex;flex-direction:column;gap:18px}
+.card{background:#fff;border:1px solid #eee;border-radius:12px;overflow:hidden}
+.card img{width:100%;height:auto;display:block;object-fit:contain;background:#f5f5f5;min-height:100px}
+.info{padding:10px;display:flex;gap:10px;align-items:flex-start}
+.logo{width:40px;height:40px;background:#ffcc00;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0}
+.info b{font-size:15px;line-height:1.4;display:block;word-break:break-all}
+.info span{font-size:14px;color:#555}
+.actions{display:flex;gap:18px;padding:0 10px 12px 60px;color:#333;font-size:15px;font-weight:700}
+#status{padding:12px;text-align:center;font-weight:700}
+</style>
+</head>
+<body>
+<div class="top"><b>☀️ SURYA GITA</b><span>SUBSCRIBE</span></div>
+<div class="run"><span>SURYA GITA | Shraddha - Gyan - Sadhna - Paropkar |</span></div>
+<div class="intro" id="readmeBox"><h2>SURYA GITA</h2><p id="readmeText">README load ho raha hai...</p></div>
+<div class="sec">TOTAL 156 POSTER</div>
+<div id="status">Posters load ho rahe hain...</div>
+<div id="all"></div>
+<script>
+var USER="amarsinghparihar";
+var REPO="surya-gita";
+fetch("https://raw.githubusercontent.com/"+USER+"/"+REPO+"/main/README.md").then(function(r){return r.text()}).then(function(t){document.getElementById("readmeText").textContent=t.slice(0,8000)}).catch(function(){document.getElementById("readmeText").textContent="SURYA GITA | Shraddha • Gyan • Sadhna • Paropkar"});
+function makeCard(name, base){
+  var card=document.createElement("div"); card.className="card";
+  var img=document.createElement("img"); img.loading="lazy"; img.alt=name;
+  var exts=[".jpg",".jpeg",".JPG",".JPEG",".png",".webp"];
+  var i=0;
+  function tryNext(){
+    if(i>=exts.length){ card.style.display="none"; return; }
+    img.src=base+exts[i]; i++;
+  }
+  img.onerror=tryNext; tryNext();
+  var info=document.createElement("div"); info.className="info";
+  info.innerHTML='<div class="logo">☀️</div><div><b>'+name+'</b><span>SURYA GITA - 156 POSTER</span></div>';
+  var act=document.createElement("div"); act.className="actions"; act.textContent="👍 Like    💬 Comment    ↗️ Share";
+  card.appendChild(img); card.appendChild(info); card.appendChild(act);
+  return card;
+}
+function buildFromList(files){
+  var all=document.getElementById("all");
+  var feed=document.createElement("div"); feed.className="feed"; all.appendChild(feed);
+  document.getElementById("status").textContent="Total posters mile: "+files.length+" / 156 POSTER";
+  files.forEach(function(f){
+    var base=f.download_url.replace(/\.(jpg|jpeg|png|webp|gif)$/i,"");
+    var name=f.name;
+    feed.appendChild(makeCard(name, base));
+  });
+}
+function buildFromNames(){
+  var all=document.getElementById("all");
+  var feed=document.createElement("div"); feed.className="feed"; all.appendChild(feed);
+  document.getElementById("status").textContent="156 POSTER - Naam se load ho rahe hain";
+  for(var i=0;i<60;i++){ feed.appendChild(makeCard("amai-id-"+i, "amai-id-"+i)); }
+  for(var j=0;j<120;j++){ var n=("00"+j).slice(-3); feed.appendChild(makeCard("amar-"+n, "amar-"+n)); }
+  for(var k=1;k<=34;k++){ feed.appendChild(makeCard("amar-news-"+k, "amar-news-"+k)); }
+  feed.appendChild(makeCard("organiser-news-1","organiser-news-1"));
+  feed.appendChild(makeCard("organiser-news-2","organiser-news-2"));
+}
+fetch("https://api.github.com/repos/"+USER+"/"+REPO+"/contents/?per_page=1000").then(function(r){return r.json()}).then(function(list){
+  if(!list || !list.length || list.message){ buildFromNames(); return; }
+  var files=list.filter(function(f){return f.type==="file" && /\.(jpg|jpeg|png|webp|gif)$/i.test(f.name)}).sort(function(a,b){return a.name.localeCompare(b.name)});
+  if(files.length<10){ buildFromNames(); } else { buildFromList(files); }
+}).catch(function(){ buildFromNames(); });
+</script>
+</body>
+</html>
