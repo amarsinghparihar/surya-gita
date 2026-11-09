@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SURYA GITA</title>
+<style>
+body{margin:0;background:#FFF8DC;font-family:Arial}
+.header{background:#FFD700;padding:15px;text-align:center;border-bottom:3px solid red}
+.header h1{color:#E60000;font-size:46px;margin:5px;line-height:1}
+.header p{font-weight:bold;margin:4px}
+.block{background:#FFFDE7;border-left:3px solid red;border-right:3px solid red;border-bottom:3px solid red;margin:0 10px 15px 10px;padding:20px;white-space:pre-line;font-size:20px;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="header">
+<p>Suryamahayogiji Dwara Janhitarth Sankalit</p>
+<h1>SURYA<br>GITA</h1>
+<p>Surya Tratak Samadhi me Suryamahayogiji</p>
+<p>WhatsApp: +91 8126914149</p>
+</div>
+<div id="all"></div>
+<script>
+let blocks = [
+`ॐ तत्सत्।
+SURYA GITA
+Gita Tattva Gyan`,
+`DUSRA BLOCK YAHAN LIKHIYE`,
+`TEESRA BLOCK YAHAN LIKHIYE`
+];
+  let html='';
+blocks.forEach(b=>{ html+='<div class="block">'+b+'</div>'; });
+document.getElementById('all').innerHTML=html;
+</script>
+</body>
+</html>
