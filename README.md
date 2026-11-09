@@ -122,7 +122,7 @@ GitHub Pages: https://amarsinghparihar.github.io/surya-gita/
 ॐ तत्सत्।
 ------------------------------------------------------------------------
 
-![GITA TATWA GYAN](https://img.shields.io/badge/GITA%20%20TATWA%20%20GYAN-FF1744?style=for-the-badge) ![GURU PARAMPARAA](https://img.shields.io/badge/GURU%20%20PARAMPARAA-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
+![GITA TATWA GYAN](https://img.shields.io/badge/GITA%20%20TATWA%20%20GYAN-FF1744?style=for-the-badge) ![GURU PARAMPARAA](https://img.shields.io/badge/GURU%20%20PARAMPARAA-616161?style=for-the-badge) ![KRISHNA SURYA](https://img.shields.io/badge/KRISHNA%20%20SURYA-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge) ![RED RED](https://img.shields.io/badge/RED%20%20RED-FF1744?style=for-the-badge) ![GREY GREY](https://img.shields.io/badge/GREY%20%20GREY-616161?style=for-the-badge)
 
 
 ![Surya Gita --- Red
