@@ -50,6 +50,21 @@ body{margin:0;background:#fff;font-family:sans-serif}
 .c4{background:#008000; color:#FFFFFF;}
 .c5{background:#000000; color:#FFD700;}
 .c6{background:#FFFFFF; color:#FF0000; border:2px solid #FF0000;}
+
+.mini-logo{
+ position:fixed; top:0; left:0; right:0;
+ background:#FFD700; color:#000; font-weight:900;
+ text-align:center; padding:10px;
+ font-size:20px; z-index:999;
+ transform:translateY(-100%);
+ transition:transform 0.2s;
+}
+body.scrolled .mini-logo{
+ transform:translateY(0);
+}
+
+
+
 </style>
 </head>
 <body>
