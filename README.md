@@ -1,3 +1,14 @@
+<div align="center">
+
+<!-- YAHAN SAARE BLOCK -->
+
+Divine Gyan Posters
+Divine Gyan Posters - Bhagavad Gita, Vedic Mantras & Sadhana Wisdom by Surya Mahayogi
+
+</div>
+
+---
+
 # 🌞 SURYA GITA 🚩
 <h1 align="center" style="color:red; font-size:60px;">
 <h2 style="color:orange; font-size:28px;">Suryamahayogiji - Noon Sun ko khuli aankhon se dekhne wale ekmatra manav</h2>
