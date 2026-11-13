@@ -1,13 +1,20 @@
+
 <div align="center">
 
-<!-- YAHAN SAARE BLOCK -->
+🌞 SURYA GITA 🚩
 
-Divine Gyan Posters
-Divine Gyan Posters - Bhagavad Gita, Vedic Mantras & Sadhana Wisdom by Surya Mahayogi
+Suryamahayogiji - Noon Sun ko khuli aankhon se dekhne wale
+
+**GITA 4/1 - Bhagwan Krishna ne SUN ko gyan diya**
+
+**4 Gita Tatwa Gyan Dharak - Bhagwan Krishna, Suryadev, Hanumanji & Suryamahayogiji**
+
+**Sandesh: Band aankhon se Surya dekho tab tak jab tak darshan na milen. Mantra lo, Satwik Third Eye kholo.**
 
 </div>
 
 ---
+
 
 # 🌞 SURYA GITA 🚩
 <h1 align="center" style="color:red; font-size:60px;">
