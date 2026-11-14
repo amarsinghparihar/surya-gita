@@ -160,33 +160,10 @@ body.scrolled .mini-logo{
 </div>
 <div class="intro"><h2>SURYA GITA</h2>
 <div class="btnrow">
-<button id="btn1" class="b1 active" onclick="showPart(1)">GITA PARAM TATWA GYAN</button>
-<button id="btn2" class="b2" onclick="showPart(2)">GURU <br>PARAMPARA</button>
- 
 
 
- <script>
-var USER="amarsinghparihar";
-var REPO="surya-gita";
-var fullText="", part1="", part2="";
-function clean(t){
-  t=t.replace(/!\^\*\]\([^)]*\)/g,"");
-  t=t.replace(/!\^\*\]/g,"");
-  t=t.replace(/\^\*\]\([^)]*\)/g,"");
-  t=t.replace(/!\^\*\)/g,"");
-  t=t.replace(/https?:\/\/[^\s\)]+/g,"");
-  t=t.replace(/<[^>]+>/g,"");
-  t=t.replace(/\*\*/g,"").replace(/^### /gm,"").replace(/^## /gm,"").replace(/^# /gm,"");
-  t=t.replace(/^\s*!\[.*$/gm,"");
-  t=t.replace(/\n{3,}/g,"\n\n");
-  return t.trim();
-}
-function showPart(n){
-  var el=document.getElementById("readmeText");
-  var b1=document.getElementById("btn1"), b2=document.getElementById("btn2");
-  if(n===1){ el.textContent=part1||fullText; b1.classList.add("active"); b2.classList.remove("active"); }
-  else { el.textContent=part2||fullText; b2.classList.add("active"); b1.classList.remove("active"); }
-}
+
+
 fetch("https://raw.githubusercontent.com/"+USER+"/"+REPO+"/main/README.md").then(function(r){return r.text()}).then(function(t){
   fullText=clean(t);
   var idx=fullText.toUpperCase().indexOf("PART II");
